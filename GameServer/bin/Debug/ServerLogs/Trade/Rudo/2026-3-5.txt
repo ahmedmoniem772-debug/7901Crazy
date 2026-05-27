@@ -1,0 +1,42 @@
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 6000000
+Date = 2026-3-5  22:13:44
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: P6Anima: UID: 73094645 | ID: 4200006 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-5  22:17:35
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 100000000
+Cps received: 0
+Date = 2026-3-5  22:24:26
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: ExemptionToken: UID: 73094666 | ID: 723701 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-5  22:33:36
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 11
+Cps sent: 0
+Silver received: 0
+Cps received: 100000
+Date = 2026-3-5  22:41:5
+************************************************************************************

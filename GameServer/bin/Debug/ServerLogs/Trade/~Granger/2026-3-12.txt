@@ -1,0 +1,53 @@
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: LionHammer: UID: 73134862 | ID: 360309 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-12  5:54:15
+************************************************************************************
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: BlazingRomance: UID: 73134940 | ID: 188845 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-12  6:37:45
+************************************************************************************
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Fragrant Spring (Pear): UID: 73134952 | ID: 199825 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-12  6:38:35
+************************************************************************************
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: ButcherKnife(1-Handed): UID: 73134962 | ID: 360044 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: ButcherKnife(1-Handed): UID: 73122538 | ID: 360044 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-12  6:56:24
+************************************************************************************
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 70000
+Date = 2026-3-12  7:3:40
+************************************************************************************
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 250000
+Date = 2026-3-12  10:23:55
+************************************************************************************

@@ -1,0 +1,10 @@
+************************************************************************************
+you traded with Rudo
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Solar Steel (1-handed): UID: 73110586 | ID: 360409 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Solar Steel (1-handed): UID: 73110391 | ID: 360409 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  21:6:32
+************************************************************************************

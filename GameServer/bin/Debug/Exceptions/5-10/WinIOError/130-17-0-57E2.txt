@@ -1,0 +1,14 @@
+----Exception message----
+The process cannot access the file because another process has locked a portion of the file.
+
+----End of exception message----
+
+----Stack trace----
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at VirusX.Program.CopyAll(DirectoryInfo source, DirectoryInfo target) in D:\Conquer\VirusX\GameServer\Program.cs:line 1645
+   at VirusX.Program.Copy(String sourceDirectory, String targetDirectory) in D:\Conquer\VirusX\GameServer\Program.cs:line 1638
+   at VirusX.ThreadPoll.ServerFunctions() in D:\Conquer\VirusX\GameServer\Thread.cs:line 174
+----End of stack trace----
+

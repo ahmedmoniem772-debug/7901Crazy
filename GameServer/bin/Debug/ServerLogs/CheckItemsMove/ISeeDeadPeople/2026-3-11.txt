@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: AlmightyEmperor`sPillar: UID: 73111457 | ID: 622439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-11  16:29:8
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: AlmightyEmperor`sPillar: UID: 73111458 | ID: 622439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-11  16:29:8
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Blizzard: UID: 73111452 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-11  16:29:17
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FloridNecklace: UID: 73111450 | ID: 120269 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-11  16:29:17
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: CrimsonRing: UID: 73111479 | ID: 150269 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-11  16:29:18
+------------------------------------------------------------------------------------

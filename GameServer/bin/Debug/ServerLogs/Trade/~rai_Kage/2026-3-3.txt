@@ -1,0 +1,58 @@
+************************************************************************************
+you traded with ~Zyi|Kes
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: P9Anima: UID: 73081604 | ID: 4200009 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: StarRoosterEndlessCourage: UID: 73081703 | ID: 200593 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: P7Anima: UID: 73081486 | ID: 4200007 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Winged Unicorn (Bell): UID: 73081704 | ID: 200687 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Moonsea Heart (Pearl): UID: 73081708 | ID: 200405 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Steed: UID: 73074620 | ID: 300000 | Plus: 6 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-3  22:12:48
+************************************************************************************
+************************************************************************************
+you traded with ~Zyi|Kes
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: BlueResurgence(Legend): UID: 73074568 | ID: 193805 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Stunning Grace (Dazzle): UID: 73081576 | ID: 191515 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: PowerofSixers(Signed): UID: 73080990 | ID: 195195 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Celeste Gorget: UID: 73081560 | ID: 196765 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Frosty Snow (Glacier): UID: 73081005 | ID: 191635 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Shadow Leopard: UID: 73081007 | ID: 200703 | Plus: 0 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-3  22:54:5
+************************************************************************************
+************************************************************************************
+you traded with ~Zyi|Kes
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: CharmingRose: UID: 73080933 | ID: 360315 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: CharmingRose: UID: 73081288 | ID: 360315 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-3  23:27:25
+************************************************************************************
+************************************************************************************
+you traded with ~Zyi|Kes
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: TigerGlory: UID: 73081202 | ID: 195825 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Full Moon (Reunion): UID: 73081436 | ID: 199505 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-3  23:32:33
+************************************************************************************
+************************************************************************************
+you traded with ~Zyi|Kes
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Pistil Sprite: UID: 73081498 | ID: 196665 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Trendy Summer: UID: 73074655 | ID: 199555 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-3  23:53:57
+************************************************************************************

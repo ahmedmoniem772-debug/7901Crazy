@@ -1,0 +1,149 @@
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 2000000
+Silver received: 0
+Cps received: 0
+Items received : Name: HeartlessSeal: UID: 73121749 | ID: 4100004 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  20:9:19
+************************************************************************************
+************************************************************************************
+you traded with Traitor
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Aureate Phoenix (Twin): UID: 73144072 | ID: 205013 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  20:27:46
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: P18Anima: UID: 73144080 | ID: 4200018 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: P18Anima: UID: 73144081 | ID: 4200018 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: P18Anima: UID: 73144082 | ID: 4200018 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  20:30:26
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: NatureShield(+9): UID: 73144408 | ID: 4035109 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  22:4:17
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Overwhelm(+9): UID: 73144409 | ID: 4032909 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  22:9:8
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Conqueror`sBlade(+9): UID: 73144410 | ID: 4035509 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  22:10:20
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Fearless (+9): UID: 73144411 | ID: 4035909 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  22:10:41
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: XPKiller(+9): UID: 73144412 | ID: 4030609 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: XPBooster(+9): UID: 73144413 | ID: 4031109 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  22:11:28
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: FireBlast(+9): UID: 73144414 | ID: 4032109 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Solidness(+9): UID: 73144415 | ID: 4035409 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  22:12:27
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: MiracleTouch(+9): UID: 73144416 | ID: 4034509 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  22:13:16
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Nature`sChant(+9): UID: 73144417 | ID: 4034209 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  22:13:57
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: TortoiseSmasher(+9): UID: 73144418 | ID: 4034809 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  22:14:51
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: TortoiseBreaker(+9): UID: 73144419 | ID: 4030109 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  22:15:9
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: UniversalShield(+9): UID: 73144420 | ID: 4034709 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Wavebreak (+27): UID: 73144421 | ID: 4028327 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  22:16:19
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Tempered Glaive (+9): UID: 73144422 | ID: 4035809 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  22:17:21
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Whetted Blade (+9): UID: 73144423 | ID: 4035709 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  22:18:3
+************************************************************************************

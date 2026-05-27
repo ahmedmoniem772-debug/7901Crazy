@@ -1,0 +1,17 @@
+D:\سورسات\AccountServer\bin\Debug\AccountServer.exe.config
+D:\سورسات\AccountServer\bin\Debug\AccountServer.exe
+D:\سورسات\AccountServer\bin\Debug\AccountServer.pdb
+D:\سورسات\AccountServer\obj\Debug\AccountServer.csproj.AssemblyReference.cache
+D:\سورسات\AccountServer\obj\Debug\AccountServer.csproj.CoreCompileInputs.cache
+D:\سورسات\AccountServer\obj\Debug\AccountS.D42894FE.Up2Date
+D:\سورسات\AccountServer\obj\Debug\AccountServer.exe
+D:\سورسات\AccountServer\obj\Debug\AccountServer.pdb
+D:\Conquer\VirusX\AccountServer\bin\Debug\AccountServer.exe.config
+D:\Conquer\VirusX\AccountServer\bin\Debug\AccountServer.exe
+D:\Conquer\VirusX\AccountServer\bin\Debug\AccountServer.pdb
+D:\Conquer\VirusX\AccountServer\obj\Debug\AccountServer.csproj.AssemblyReference.cache
+D:\Conquer\VirusX\AccountServer\obj\Debug\AccountServer.exe.config
+D:\Conquer\VirusX\AccountServer\obj\Debug\AccountServer.csproj.CoreCompileInputs.cache
+D:\Conquer\VirusX\AccountServer\obj\Debug\AccountS.D42894FE.Up2Date
+D:\Conquer\VirusX\AccountServer\obj\Debug\AccountServer.exe
+D:\Conquer\VirusX\AccountServer\obj\Debug\AccountServer.pdb

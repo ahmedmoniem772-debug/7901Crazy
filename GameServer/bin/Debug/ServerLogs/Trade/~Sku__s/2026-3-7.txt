@@ -1,0 +1,64 @@
+************************************************************************************
+you traded with ~Wonder|Boy
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Gory Count (Rose): UID: 73107663 | ID: 191865 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Rose Knight (Glory): UID: 73107665 | ID: 198115 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  0:39:59
+************************************************************************************
+************************************************************************************
+you traded with ~Wonder|Boy
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: SnowFox: UID: 73086108 | ID: 200475 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: SnowFox: UID: 73080935 | ID: 200485 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  9:4:41
+************************************************************************************
+************************************************************************************
+you traded with ~jiN|wOo
+Silver sent: 0
+Cps sent: 1600000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-7  10:14:30
+************************************************************************************
+************************************************************************************
+you traded with ~jiN|wOo
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: PhoenixDream: UID: 73090376 | ID: 360207 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  17:57:13
+************************************************************************************
+************************************************************************************
+you traded with ~jiN|wOo
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: SacredNinjaGarment: UID: 73114218 | ID: 194905 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  20:43:25
+************************************************************************************
+************************************************************************************
+you traded with ~jiN|wOo
+Silver sent: 0
+Cps sent: 400000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-7  22:48:58
+************************************************************************************
+************************************************************************************
+you traded with ~jiN|wOo
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: P11Anima: UID: 73118038 | ID: 4200011 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: P12Anima: UID: 73117470 | ID: 4200012 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  23:10:18
+************************************************************************************

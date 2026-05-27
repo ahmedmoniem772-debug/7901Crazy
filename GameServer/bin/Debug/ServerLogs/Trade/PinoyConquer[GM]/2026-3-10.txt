@@ -1,0 +1,28 @@
+************************************************************************************
+you traded with Rudo
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: P18Anima: UID: 73127067 | ID: 4200018 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-10  13:3:27
+************************************************************************************
+************************************************************************************
+you traded with Traitor
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: P18Anima: UID: 73128645 | ID: 4200018 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: P18Anima: UID: 73128646 | ID: 4200018 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-10  23:5:11
+************************************************************************************
+************************************************************************************
+you traded with ~Str@|Ker
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: P18Anima: UID: 73128695 | ID: 4200018 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-10  23:35:41
+************************************************************************************

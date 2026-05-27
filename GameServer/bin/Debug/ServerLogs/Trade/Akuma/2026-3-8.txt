@@ -1,0 +1,320 @@
+************************************************************************************
+you traded with Rudo
+Silver sent: 0
+Cps sent: 0
+Silver received: 11
+Cps received: 0
+Items sent : Name: Breakthrough(Sacred)Material: UID: 73121027 | ID: 3004141 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  0:13:33
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: WingedFrostcatArmor: UID: 73104237 | ID: 200221 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  0:54:12
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: HeavenDragon(Unique): UID: 73099346 | ID: 205003 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  1:3:19
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 93159
+Silver received: 0
+Cps received: 0
+Date = 2026-3-8  2:18:37
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: BellofDoom: UID: 73121701 | ID: 4100005 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  2:20:32
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 500000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-8  2:21:5
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: ImperialTripodVessel: UID: 73084949 | ID: 4100002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  2:21:23
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: BellofDoom: UID: 73121701 | ID: 4100005 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  2:22:26
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: HeartlessSeal: UID: 73121749 | ID: 4100004 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  2:30:52
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: HeartlessSeal: UID: 73065960 | ID: 4100004 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  3:6:16
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: HeartlessSeal: UID: 73065960 | ID: 4100004 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  3:7:12
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: WesternMirror: UID: 73121885 | ID: 4100001 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  3:21:59
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 100000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-8  3:42:19
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 200000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-8  3:42:40
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 400000
+Date = 2026-3-8  3:43:2
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 60000
+Date = 2026-3-8  4:0:15
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 60000
+Date = 2026-3-8  4:13:8
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 100000
+Date = 2026-3-8  12:40:38
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 40000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-8  12:47:44
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: P11Anima: UID: 73122682 | ID: 4200011 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: P12Anima: UID: 73122685 | ID: 4200012 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  13:14:2
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 45000
+Date = 2026-3-8  13:19:9
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 240000
+Date = 2026-3-8  14:28:39
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 240000
+Date = 2026-3-8  15:50:28
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 30000
+Date = 2026-3-8  17:6:2
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: BeadsofCalmSea: UID: 73123333 | ID: 4100003 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  17:14:46
+************************************************************************************
+************************************************************************************
+you traded with Rudo
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: BeadsofCalmSea: UID: 73123333 | ID: 4100003 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: WingedFrostcatArmor: UID: 73113146 | ID: 200220 | Plus: 0 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  17:23:7
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Date = 2026-3-8  17:55:41
+************************************************************************************
+************************************************************************************
+you traded with TheOneThatIneed
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 70000
+Date = 2026-3-8  17:55:54
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Breakthrough(Sacred)Material: UID: 73123820 | ID: 3004163 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  20:1:12
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 43504
+Silver received: 0
+Cps received: 0
+Date = 2026-3-8  21:30:3
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 110000
+Date = 2026-3-8  21:53:42
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 30000
+Date = 2026-3-8  21:59:48
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 120000
+Date = 2026-3-8  22:44:20
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 30000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-8  22:49:48
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 60000
+Date = 2026-3-8  22:50:26
+************************************************************************************
+************************************************************************************
+you traded with CoupeDGrace
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 62000
+Date = 2026-3-8  22:57:2
+************************************************************************************
+************************************************************************************
+you traded with CoupeDGrace
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 30000
+Date = 2026-3-8  23:6:59
+************************************************************************************
+************************************************************************************
+you traded with CoupeDGrace
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 30000
+Date = 2026-3-8  23:9:19
+************************************************************************************

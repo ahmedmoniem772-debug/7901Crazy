@@ -1,0 +1,12 @@
+UserName[Acc] |12| UIDAccount |12957565 | IPAccount | 197.39.98.239 |  PasswordAccount  [12] [The Clock] 14:16:14
+UserName[Acc] |14| UIDAccount |12957567 | IPAccount | 197.39.98.239 |  PasswordAccount  [14] [The Clock] 14:54:39
+UserName[Acc] |16| UIDAccount |12957569 | IPAccount | 197.39.98.239 |  PasswordAccount  [16] [The Clock] 14:56:34
+UserName[Acc] |17| UIDAccount |12957570 | IPAccount | 197.39.98.239 |  PasswordAccount  [17] [The Clock] 14:57:17
+UserName[Acc] |14| UIDAccount |12957567 | IPAccount | 197.39.98.239 |  PasswordAccount  [14] [The Clock] 15:39:29
+UserName[Acc] |12| UIDAccount |12957565 | IPAccount | 102.47.183.194 |  PasswordAccount  [12] [The Clock] 19:15:28
+UserName[Acc] |12| UIDAccount |12957565 | IPAccount | 102.47.183.194 |  PasswordAccount  [12] [The Clock] 19:15:35
+UserName[Acc] |12| UIDAccount |12957565 | IPAccount | 102.47.183.194 |  PasswordAccount  [12] [The Clock] 19:25:41
+UserName[Acc] |12| UIDAccount |12957565 | IPAccount | 102.47.183.194 |  PasswordAccount  [12] [The Clock] 19:47:30
+UserName[Acc] |12| UIDAccount |12957565 | IPAccount | 102.47.183.194 |  PasswordAccount  [12] [The Clock] 19:54:48
+UserName[Acc] |12| UIDAccount |12957565 | IPAccount | 197.56.18.94 |  PasswordAccount  [12] [The Clock] 20:2:39
+UserName[Acc] |11| UIDAccount |12957563 | IPAccount | 197.39.98.239 |  PasswordAccount  [11] [The Clock] 20:49:7

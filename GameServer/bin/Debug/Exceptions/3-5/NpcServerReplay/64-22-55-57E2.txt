@@ -1,0 +1,9 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at ElTurky.Game.MsgNpc.Procesor.NpcServerReplay(GameClient user, Packet stream) in C:\Users\Administrator\Desktop\Server\Source\Game\MsgNpc\Procesor.cs:line 63
+   at ElTurky.Program.Game_Receive(SecuritySocket obj, Packet stream) in C:\Users\Administrator\Desktop\Server\Source\Program.cs:line 1562
+----End of stack trace----
+

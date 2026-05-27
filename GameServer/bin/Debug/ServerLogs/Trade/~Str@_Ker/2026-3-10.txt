@@ -1,0 +1,27 @@
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 1450000
+Date = 2026-3-10  10:12:39
+************************************************************************************
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Celestial Flame (Raging): UID: 73088247 | ID: 360321 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Celestial Flame (Raging): UID: 73127133 | ID: 360321 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-10  14:14:31
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: P18Anima: UID: 73128695 | ID: 4200018 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-10  23:35:41
+************************************************************************************

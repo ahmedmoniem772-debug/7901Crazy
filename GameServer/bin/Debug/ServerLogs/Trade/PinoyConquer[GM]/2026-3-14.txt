@@ -1,0 +1,35 @@
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: P18Anima: UID: 73146164 | ID: 4200018 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-14  2:9:38
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 20000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-14  2:9:47
+************************************************************************************
+************************************************************************************
+you traded with RagnaR
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: WingedFrostcatArmor: UID: 73146077 | ID: 200221 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-14  4:35:54
+************************************************************************************
+************************************************************************************
+you traded with RagnaR
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: P18Anima: UID: 73146318 | ID: 4200018 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-14  4:55:52
+************************************************************************************

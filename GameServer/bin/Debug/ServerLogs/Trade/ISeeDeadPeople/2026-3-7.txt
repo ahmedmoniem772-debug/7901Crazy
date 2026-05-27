@@ -1,0 +1,47 @@
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 6000000
+Date = 2026-3-7  14:29:11
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: ExemptionToken: UID: 73113723 | ID: 723701 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  19:19:46
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 1000000
+Date = 2026-3-7  19:33:35
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Steed: UID: 73113827 | ID: 300000 | Plus: 8 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  19:36:28
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: HeavenNecklace: UID: 73113956 | ID: 821033 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: MoonHeadgear: UID: 73113957 | ID: 820073 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: NetherArmor: UID: 73113958 | ID: 822071 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: BuddaBeads: UID: 73113959 | ID: 800725 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: BuddaBeads: UID: 73113960 | ID: 800725 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  19:55:26
+************************************************************************************

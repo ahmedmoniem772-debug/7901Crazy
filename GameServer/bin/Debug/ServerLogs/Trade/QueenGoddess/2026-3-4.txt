@@ -1,0 +1,10 @@
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: SkyHammer: UID: 73083854 | ID: 800111 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SkyHammer: UID: 73083855 | ID: 800111 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  3:40:45
+************************************************************************************

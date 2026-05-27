@@ -1,0 +1,9 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at ElTurky.Database.NpcServer.LoadServerTraps(UInt32 id) in D:\سورسات\Source 7809\Database\NpcServer.cs:line 140
+   at ElTurky.Program.Main(String[] args) in D:\سورسات\Source 7809\Program.cs:line 305
+----End of stack trace----
+

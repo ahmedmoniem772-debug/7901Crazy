@@ -1,0 +1,85 @@
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: EquipmentPack: UID: 73134793 | ID: 727266 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-12  3:5:48
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: DistinctCap: UID: 73134817 | ID: 114309 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-12  3:14:9
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: EternalRobe: UID: 73134816 | ID: 134309 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-12  3:14:9
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: FierceImmortal: UID: 73134815 | ID: 619439 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-12  3:14:10
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: SupremeSword: UID: 73134814 | ID: 421439 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-12  3:14:10
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Blizzard: UID: 73134813 | ID: 160249 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-12  3:14:11
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: NiftyBag: UID: 73134812 | ID: 121269 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-12  3:14:11
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: WyvernBracelet: UID: 73134811 | ID: 152279 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-12  3:14:12
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: TempestWing: UID: 73134810 | ID: 204009 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperThunderGem | S2: SuperGloryGem 
+Date = 2026-3-12  3:14:12
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: HeavenFan: UID: 73134809 | ID: 201009 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperThunderGem | S2: SuperThunderGem 
+Date = 2026-3-12  3:14:12
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Steed: UID: 73134806 | ID: 300000 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-12  3:14:13
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: RidingCrop: UID: 73134807 | ID: 203009 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-12  3:14:14
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: StarTower: UID: 73134808 | ID: 202009 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperGloryGem | S2: SuperGloryGem 
+Date = 2026-3-12  3:14:14
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: FierceImmortal: UID: 73134815 | ID: 619439 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-12  3:14:16
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Twin City Gate: UID: 73134833 | ID: 3349436 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-12  3:14:37
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: LifePotion: UID: 73134834 | ID: 1000040 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-12  3:14:46
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: LifePotion: UID: 73134834 | ID: 1000040 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-12  3:14:46
+------------------------------------------------------------------------------------

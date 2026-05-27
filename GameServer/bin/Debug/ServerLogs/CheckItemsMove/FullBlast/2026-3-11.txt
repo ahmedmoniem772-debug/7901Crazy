@@ -1,0 +1,55 @@
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: ChocolateHeart(Dazzle): UID: 73121687 | ID: 360291 | Plus: 0 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-11  15:15:17
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: ChocolateHeart(Dazzle): UID: 73121688 | ID: 360291 | Plus: 0 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-11  15:15:18
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FantasyKnife: UID: 73062211 | ID: 613429 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 18 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-11  15:15:24
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FantasyKnife: UID: 73062212 | ID: 613429 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-11  15:15:25
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: ChocolateHeart(Dazzle): UID: 73121687 | ID: 360291 | Plus: 0 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-11  15:15:44
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: ChocolateHeart(Dazzle): UID: 73121688 | ID: 360291 | Plus: 0 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-11  15:16:9
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Ethereal Godslayer: UID: 73062217 | ID: 606429 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-11  15:19:57
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Ethereal Godslayer: UID: 73062216 | ID: 606429 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-11  15:19:58
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: HuntingBow: UID: 73061380 | ID: 500019 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-11  15:20:7
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Ethereal Godslayer: UID: 73062217 | ID: 606429 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-11  15:29:32
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Ethereal Godslayer: UID: 73062216 | ID: 606429 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-11  15:29:33
+------------------------------------------------------------------------------------

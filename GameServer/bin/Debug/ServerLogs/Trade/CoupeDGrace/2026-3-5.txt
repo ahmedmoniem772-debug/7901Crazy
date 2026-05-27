@@ -1,0 +1,45 @@
+************************************************************************************
+you traded with Flamingfury
+Silver sent: 0
+Cps sent: 0
+Silver received: 1900000
+Cps received: 6000000
+Date = 2026-3-5  21:29:59
+************************************************************************************
+************************************************************************************
+you traded with Flamingfury
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 40000
+Items received : Name: P11Anima: UID: 73094312 | ID: 4200011 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: P12Anima: UID: 73094390 | ID: 4200012 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-5  21:37:19
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: SkyHammer: UID: 73094540 | ID: 800111 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: SkyHammer: UID: 73094541 | ID: 800111 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-5  21:49:30
+************************************************************************************
+************************************************************************************
+you traded with Flamingfury
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 91000
+Date = 2026-3-5  21:54:55
+************************************************************************************
+************************************************************************************
+you traded with Flamingfury
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 58000
+Items received : Name: P11Anima: UID: 73094651 | ID: 4200011 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-5  22:29:4
+************************************************************************************

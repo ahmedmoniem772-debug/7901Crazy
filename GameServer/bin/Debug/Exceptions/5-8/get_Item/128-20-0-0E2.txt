@@ -1,0 +1,12 @@
+----Exception message----
+The given key was not present in the dictionary.
+----End of exception message----
+
+----Stack trace----
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at ElTurky.Game.MsgTournaments.MsgUnionWar.ResetPole(Packet stream) in D:\سورسات\Source 7809\Game\MyTournaments\All Pole\MsgUnionWar.cs:line 84
+   at ElTurky.Game.MsgTournaments.MsgUnionWar.ResetFurnitures(Packet stream) in D:\سورسات\Source 7809\Game\MyTournaments\All Pole\MsgUnionWar.cs:line 104
+   at ElTurky.Game.MsgTournaments.MsgUnionWar.Start() in D:\سورسات\Source 7809\Game\MyTournaments\All Pole\MsgUnionWar.cs:line 142
+   at ElTurky.Game.MsgTournaments.MsgSchedules.CheckUp() in D:\سورسات\Source 7809\Game\MyTournaments\MsgSchedules.cs:line 210
+----End of stack trace----
+

@@ -1,0 +1,56 @@
+************************************************************************************
+you traded with sachi
+Silver sent: 0
+Cps sent: 330000
+Silver received: 0
+Cps received: 0
+Items received : Name: Crimson Phantom (Whisper): UID: 73094249 | ID: 194045 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Frozen Crest (Snow): UID: 73094235 | ID: 199165 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Pistil Sprite (Glamour): UID: 73094245 | ID: 196675 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-5  20:42:18
+************************************************************************************
+************************************************************************************
+you traded with RagnaR
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 1000000
+Date = 2026-3-5  23:3:6
+************************************************************************************
+************************************************************************************
+you traded with sachi
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: ImperialTripodVessel: UID: 73095273 | ID: 4100002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BellofDoom: UID: 73095275 | ID: 4100005 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BellofDoom: UID: 73095276 | ID: 4100005 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BellofDoom: UID: 73095280 | ID: 4100005 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: HeartlessSeal: UID: 73094793 | ID: 4100004 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: HeartlessSeal: UID: 73094861 | ID: 4100004 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-5  23:13:43
+************************************************************************************
+************************************************************************************
+you traded with sachi
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+5): UID: 73095272 | ID: 730005 | Plus: 5 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+5): UID: 73095245 | ID: 730005 | Plus: 5 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+5): UID: 73095246 | ID: 730005 | Plus: 5 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+7): UID: 73095268 | ID: 730007 | Plus: 7 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+5): UID: 73095271 | ID: 730005 | Plus: 5 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-5  23:22:31
+************************************************************************************
+************************************************************************************
+you traded with sachi
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: SavageBone: UID: 73095367 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Floral Grandeur (Aroma): UID: 73095371 | ID: 192035 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-5  23:29:50
+************************************************************************************

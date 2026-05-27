@@ -1,0 +1,101 @@
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 20000000
+Cps received: 0
+Date = 2026-3-6  16:57:11
+************************************************************************************
+************************************************************************************
+you traded with Hermelyn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Date = 2026-3-6  20:12:52
+************************************************************************************
+************************************************************************************
+you traded with Hermelyn
+Silver sent: 0
+Cps sent: 10000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-6  20:14:14
+************************************************************************************
+************************************************************************************
+you traded with Hermelyn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Date = 2026-3-6  20:26:53
+************************************************************************************
+************************************************************************************
+you traded with Hermelyn
+Silver sent: 0
+Cps sent: 10000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-6  20:27:14
+************************************************************************************
+************************************************************************************
+you traded with Hermelyn
+Silver sent: 0
+Cps sent: 10000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-6  20:33:41
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 1000000
+Silver received: 0
+Cps received: 0
+Items sent : Name: L1 Mythsoul Pack: UID: 73105076 | ID: 3325756 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: LunarAffection(Sparkle): UID: 73105085 | ID: 350108 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Ghostmare(1-Handed): UID: 73105086 | ID: 360306 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: TennisRacket: UID: 73105087 | ID: 360069 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  20:53:57
+************************************************************************************
+************************************************************************************
+you traded with Hermelyn
+Silver sent: 0
+Cps sent: 10000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-6  21:4:40
+************************************************************************************
+************************************************************************************
+you traded with Hermelyn
+Silver sent: 0
+Cps sent: 10000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-6  21:15:44
+************************************************************************************
+************************************************************************************
+you traded with Hermelyn
+Silver sent: 0
+Cps sent: 10000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-6  21:31:52
+************************************************************************************
+************************************************************************************
+you traded with Hermelyn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: DragonBall: UID: 73095486 | ID: 1088000 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  21:56:44
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 50000000
+Date = 2026-3-6  23:27:54
+************************************************************************************

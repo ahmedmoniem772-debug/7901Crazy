@@ -1,0 +1,200 @@
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: CrimsonRing: UID: 73082033 | ID: 150269 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  0:2:29
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Blizzard: UID: 73082034 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  0:2:29
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: FloridNecklace: UID: 73082032 | ID: 120269 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  0:2:39
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: ObsidianArmor: UID: 73082038 | ID: 130309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  0:2:52
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: PeerlessCoronet: UID: 73082039 | ID: 118309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  0:2:53
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: DragonBall: UID: 73082054 | ID: 1088000 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  0:3:28
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: FangCrossSaber: UID: 73082037 | ID: 614439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  0:3:33
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: FangCrossSaber: UID: 73082035 | ID: 614439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  0:3:37
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Twin City Gate: UID: 73082062 | ID: 3349436 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  0:3:54
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: TempestWing: UID: 73082069 | ID: 204009 | Plus: 12 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperThunderGem | S2: SuperGloryGem 
+Date = 2026-3-4  0:4:40
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: HeavenFan: UID: 73082067 | ID: 201009 | Plus: 12 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperThunderGem | S2: SuperThunderGem 
+Date = 2026-3-4  0:4:41
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Steed: UID: 73082066 | ID: 300000 | Plus: 12 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  0:4:41
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: RidingCrop: UID: 73082065 | ID: 203009 | Plus: 12 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  0:4:42
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: StarTower: UID: 73082063 | ID: 202009 | Plus: 12 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperGloryGem | S2: SuperGloryGem 
+Date = 2026-3-4  0:4:42
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: RedRune(B)SelectionPack: UID: 73082010 | ID: 3306562 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  0:5:0
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Twin City Gate: UID: 73082062 | ID: 3349436 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  0:5:12
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: MiraculousGourd: UID: 73082078 | ID: 2100025 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  0:6:24
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: ObsidianArmor: UID: 73082038 | ID: 130309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  0:7:17
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: PeerlessCoronet: UID: 73082039 | ID: 118309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  0:7:19
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: FangCrossSaber: UID: 73082037 | ID: 614439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  0:7:19
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: FangCrossSaber: UID: 73082035 | ID: 614439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  0:7:20
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Blizzard: UID: 73082034 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  0:7:20
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: FloridNecklace: UID: 73082032 | ID: 120269 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  0:7:21
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: CrimsonRing: UID: 73082033 | ID: 150269 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  0:7:21
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: CelestialStone: UID: 73082074 | ID: 721259 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  0:8:10
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: CrimsonRing: UID: 73082033 | ID: 150269 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  0:8:18
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: FloridNecklace: UID: 73082032 | ID: 120269 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  0:8:19
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Blizzard: UID: 73082034 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  0:8:19
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Twin City Gate: UID: 73082062 | ID: 3349436 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  0:10:36
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Twin City Gate: UID: 73082062 | ID: 3349436 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  17:37:4
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: ExemptionToken: UID: 73087410 | ID: 723701 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  17:39:4
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: CrimsonRing: UID: 73082033 | ID: 150269 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  17:39:26
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: FloridNecklace: UID: 73082032 | ID: 120269 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  17:39:26
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Blizzard: UID: 73082034 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  17:39:27
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: ObsidianArmor: UID: 73082038 | ID: 130309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  17:39:42
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: PeerlessCoronet: UID: 73082039 | ID: 118309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  17:39:45
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: FangCrossSaber: UID: 73082035 | ID: 614439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  17:39:57
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: FangCrossSaber: UID: 73082037 | ID: 614439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  17:39:58
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: BlueRune(B)SelectionPack: UID: 73082011 | ID: 3306563 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  17:42:41
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Twin City Gate: UID: 73082062 | ID: 3349436 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  17:46:12
+------------------------------------------------------------------------------------

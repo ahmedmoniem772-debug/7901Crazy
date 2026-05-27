@@ -1,0 +1,10 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at ElTurky.Game.MsgTournaments.MsgGuild6PoleWar6.Start()
+   at ElTurky.Game.MsgTournaments.MsgGuild6PoleWar6.CheckUP()
+   at ElTurky.Game.MsgTournaments.MsgSchedules.CheckUp()
+----End of stack trace----
+

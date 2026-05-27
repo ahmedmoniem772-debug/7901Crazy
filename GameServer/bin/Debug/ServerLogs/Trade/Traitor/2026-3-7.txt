@@ -1,0 +1,300 @@
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Meteor: UID: 73108341 | ID: 1088001 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  1:57:57
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Sacred Tide Glaive: UID: 73108342 | ID: 801513 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Sacred Tide Glaive: UID: 73108343 | ID: 801513 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  1:59:53
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: CriticalStrike(Sacred)Material: UID: 73108367 | ID: 3004137 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: CriticalStrike(Sacred)Material: UID: 73108368 | ID: 3004137 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Immunity(Sacred)Material: UID: 73108369 | ID: 3004139 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  2:6:55
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Immunity(Sacred)Material: UID: 73108370 | ID: 3004149 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: CriticalStrike(Sacred)Material: UID: 73108371 | ID: 3004158 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Counteraction(Sacred)Material: UID: 73108372 | ID: 3004160 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  2:8:31
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Intensification(Sacred)Material: UID: 73108373 | ID: 3004140 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  2:10:15
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: BigPermanentStone: UID: 73108385 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108386 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108387 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108388 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108389 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108390 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108391 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108392 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108393 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108394 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108395 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108396 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108398 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108399 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108402 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108374 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108378 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108380 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108383 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108384 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  2:10:54
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: BigPermanentStone: UID: 73108397 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108400 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108401 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108403 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108375 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108406 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108376 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108407 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108408 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108377 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108379 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108381 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108382 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  2:12:28
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: BigPermanentStone: UID: 73108409 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73108410 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  2:13:16
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: HeartlessSeal: UID: 73108461 | ID: 4100004 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  2:48:26
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 50000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-7  3:7:33
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 100000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-7  3:15:21
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: ModestyBook: UID: 73109183 | ID: 723342 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  3:32:11
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 100000000
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Date = 2026-3-7  3:58:25
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 200000000
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Date = 2026-3-7  4:0:57
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 50000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-7  4:18:58
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: SunHeadgear: UID: 73109706 | ID: 820074 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  4:44:41
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 50000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-7  4:55:3
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 100000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-7  4:59:38
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Fearless (+9): UID: 73109869 | ID: 4035909 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Sky Veil(+9): UID: 73109870 | ID: 4036409 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  5:6:26
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: XPKiller(+9): UID: 73109873 | ID: 4030609 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Grabber(+9): UID: 73109874 | ID: 4030709 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: QuickMount(+9): UID: 73109871 | ID: 4031409 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Healer(+9): UID: 73109872 | ID: 4030409 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  5:7:24
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Counteraction(Sacred)Material: UID: 73109876 | ID: 3004142 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Meteor: UID: 73109877 | ID: 1088001 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  5:10:56
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: BigPermanentStone: UID: 73109878 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73109879 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73109880 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  5:12:10
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: BigPermanentStone: UID: 73109881 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73109882 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73109883 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BigPermanentStone: UID: 73109884 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  5:13:31
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: BigPermanentStone: UID: 73109886 | ID: 723695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  5:13:42
+************************************************************************************
+************************************************************************************
+you traded with RagnaR
+Silver sent: 0
+Cps sent: 10000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-7  17:55:18
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: ImperialTripodVessel: UID: 73110026 | ID: 4100002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  17:58:46
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: WesternMirror: UID: 73113067 | ID: 4100001 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  18:15:45
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: ImperialTripodVessel: UID: 73113284 | ID: 4100002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  18:27:59
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: ImperialTripodVessel: UID: 73089287 | ID: 4100002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  18:30:17
+************************************************************************************

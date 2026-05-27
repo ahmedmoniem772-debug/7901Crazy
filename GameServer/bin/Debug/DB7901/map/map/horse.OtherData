@@ -1,0 +1,17 @@
+[Header]
+SenceLayerAmount=0
+TerrainLayerAmount=1
+InteractiveLayerAmount=1
+
+[TerrainLayerPicSize0]
+MapObjAmount=0
+
+[InteractiveLayerPicSize0]
+MapObjAmount=2
+MapObjIndex0=0
+Width0=256
+Height0=256
+MapObjIndex1=1
+Width1=512
+Height1=512
+

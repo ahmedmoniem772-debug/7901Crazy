@@ -1,0 +1,9 @@
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: P18Anima: UID: 73134316 | ID: 4200018 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-11  20:37:53
+************************************************************************************

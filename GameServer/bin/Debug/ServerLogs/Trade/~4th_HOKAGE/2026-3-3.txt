@@ -1,0 +1,16 @@
+************************************************************************************
+you traded with ~Zyi|Kes
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: ModestyBook: UID: 73077851 | ID: 723342 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: CharmingRose: UID: 73077916 | ID: 360041 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: P7Anima: UID: 73081451 | ID: 4200007 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Golden Slumber (Glory): UID: 73081455 | ID: 199235 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Bailey Bunny: UID: 73081456 | ID: 198695 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: DreamofYouth: UID: 73081457 | ID: 188675 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: LoveConfession: UID: 73081275 | ID: 360101 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: P8Anima: UID: 73081321 | ID: 4200008 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-3  21:4:51
+************************************************************************************

@@ -1,0 +1,145 @@
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: CrimsonRing: UID: 73066424 | ID: 150269 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 3 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  2:7:19
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: MightyHelmet: UID: 73066429 | ID: 146309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 3 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  2:16:19
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FloridNecklace: UID: 73066425 | ID: 120269 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 3 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  2:16:20
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Blizzard: UID: 73066423 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 3 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  2:16:21
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: InfiniteFlashaxe: UID: 73066427 | ID: 680439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 3 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  2:16:22
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: ChaoticStormhammer: UID: 73066426 | ID: 681439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 3 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  2:16:22
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: TitanArmor: UID: 73066428 | ID: 102309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 3 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  2:16:24
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: CrimsonRing: UID: 73066424 | ID: 150269 | Plus: 12 | Bless: 7 | Anima: 4200011 | Perfection Level: 3 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  2:33:21
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Blizzard: UID: 73066423 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 4200011 | Perfection Level: 3 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  2:33:22
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: MightyHelmet: UID: 73066429 | ID: 146309 | Plus: 12 | Bless: 7 | Anima: 4200011 | Perfection Level: 3 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  2:33:36
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: LingeringBlossoms(Forever): UID: 73066452 | ID: 360297 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  2:36:17
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: LingeringBlossoms(Forever): UID: 73066451 | ID: 360297 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  2:36:18
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: LingeringBlossoms(Forever): UID: 73066452 | ID: 360297 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  2:36:55
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: LingeringBlossoms(Forever): UID: 73066451 | ID: 360297 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  2:36:58
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: LingeringBlossoms(Forever): UID: 73066452 | ID: 360297 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  2:36:59
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: LingeringBlossoms(Forever): UID: 73066451 | ID: 360297 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  2:37:0
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: LingeringBlossoms(Forever): UID: 73066452 | ID: 360297 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  2:37:18
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: LingeringBlossoms(Forever): UID: 73066451 | ID: 360297 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  2:37:19
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: InfiniteFlashaxe: UID: 73066427 | ID: 680439 | Plus: 12 | Bless: 7 | Anima: 4200011 | Perfection Level: 3 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  2:38:20
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: ChaoticStormhammer: UID: 73066426 | ID: 681439 | Plus: 12 | Bless: 7 | Anima: 4200011 | Perfection Level: 3 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  2:38:21
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: LingeringBlossoms(Forever): UID: 73066451 | ID: 360297 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  2:46:4
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: LingeringBlossoms(Forever): UID: 73066452 | ID: 360297 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  2:46:7
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: MiraculousGourd: UID: 73066453 | ID: 2100025 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  2:46:17
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Steed: UID: 73066432 | ID: 300000 | Plus: 12 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  3:20:27
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Steed: UID: 73084117 | ID: 300000 | Plus: 6 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  3:22:28
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Steed: UID: 73084117 | ID: 300000 | Plus: 6 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  3:22:49
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Steed: UID: 73084118 | ID: 300000 | Plus: 6 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  3:22:51
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Steed: UID: 73084119 | ID: 300000 | Plus: 6 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  3:22:52
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Steed: UID: 73084120 | ID: 300000 | Plus: 6 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  3:22:54
+------------------------------------------------------------------------------------

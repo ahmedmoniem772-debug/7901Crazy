@@ -1,0 +1,12 @@
+----Exception message----
+The given key was not present in the dictionary.
+----End of exception message----
+
+----Stack trace----
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at ElTurky.Game.MsgServer.MsgAttackPacket.ProcescMagic(GameClient user, Packet stream, InteractQuery Attack, Boolean ignoreStamp) in C:\Users\Administrator\Desktop\Server\Source\Game\MsgServer\MsgAttackPacket.cs:line 1221
+   at ElTurky.Game.MsgServer.MsgAttackPacket.Process(GameClient user, InteractQuery Attack, Boolean CheckTargetType) in C:\Users\Administrator\Desktop\Server\Source\Game\MsgServer\MsgAttackPacket.cs:line 1160
+   at ElTurky.Game.MsgServer.MsgAttackPacket.HandlerProcess(GameClient user, Packet stream) in C:\Users\Administrator\Desktop\Server\Source\Game\MsgServer\MsgAttackPacket.cs:line 296
+   at ElTurky.Program.Game_Receive(SecuritySocket obj, Packet stream) in C:\Users\Administrator\Desktop\Server\Source\Program.cs:line 1562
+----End of stack trace----
+

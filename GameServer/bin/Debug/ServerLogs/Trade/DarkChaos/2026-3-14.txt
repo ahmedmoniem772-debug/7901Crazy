@@ -1,0 +1,26 @@
+************************************************************************************
+you traded with ~Granger
+Silver sent: 0
+Cps sent: 200000
+Silver received: 0
+Cps received: 0
+Items received : Name: WesternMirror: UID: 73145923 | ID: 4100001 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-14  0:6:53
+************************************************************************************
+************************************************************************************
+you traded with Conquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: FierceImmortal: UID: 73146144 | ID: 619439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem
+Date = 2026-3-14  1:41:27
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 100000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-14  2:26:51
+************************************************************************************

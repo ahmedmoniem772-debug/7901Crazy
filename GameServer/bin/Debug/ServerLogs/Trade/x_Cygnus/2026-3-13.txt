@@ -1,0 +1,26 @@
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 1200000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-13  11:0:57
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 300000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-13  13:35:35
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: BeadsofCalmSea: UID: 73142462 | ID: 4100003 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: WesternMirror: UID: 73142465 | ID: 4100001 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  14:48:49
+************************************************************************************

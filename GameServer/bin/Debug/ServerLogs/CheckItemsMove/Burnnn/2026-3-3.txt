@@ -1,0 +1,80 @@
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: IronRing: UID: 73074429 | ID: 150003 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-3  13:15:27
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Coat: UID: 73074431 | ID: 132009 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-3  13:18:26
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: BambooBow: UID: 73074430 | ID: 500006 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-3  13:38:28
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: CrimsonRing: UID: 73074508 | ID: 150269 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-3  13:41:54
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FloridNecklace: UID: 73074507 | ID: 120269 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-3  13:41:55
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: WhiteTigerHat: UID: 73074514 | ID: 113309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-3  13:41:56
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: HeavenlyBow: UID: 73074512 | ID: 500429 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-3  13:41:56
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Blizzard: UID: 73074509 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-3  13:41:57
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Blizzard: UID: 73074509 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-3  13:46:40
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FloridNecklace: UID: 73074507 | ID: 120269 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-3  13:46:41
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: WhiteTigerHat: UID: 73074514 | ID: 113309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-3  13:46:42
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: HeavenlyBow: UID: 73074512 | ID: 500429 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-3  13:46:43
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: WelkinCoat: UID: 73074513 | ID: 133309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-3  13:46:44
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Ethereal Dusk Shadow: UID: 73074516 | ID: 606019 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-3  15:14:16
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Ethereal Dusk Shadow: UID: 73074516 | ID: 606089 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-3  15:26:18
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Ethereal Dusk Shadow: UID: 73074515 | ID: 606089 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-3  15:26:19
+------------------------------------------------------------------------------------

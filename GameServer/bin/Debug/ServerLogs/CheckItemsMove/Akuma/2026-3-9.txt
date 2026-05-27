@@ -1,0 +1,105 @@
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: GuardCoronet: UID: 73081985 | ID: 118009 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  2:2:14
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FangCrossSaber: UID: 73081981 | ID: 614439 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  2:2:18
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FangCrossSaber: UID: 73081983 | ID: 614439 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  2:2:18
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: CrimsonRing: UID: 73081979 | ID: 150269 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  2:2:20
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FloridNecklace: UID: 73081978 | ID: 120269 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  2:2:21
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Blizzard: UID: 73081980 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 54 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-9  2:2:22
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: CrimsonRing: UID: 73081979 | ID: 150269 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  2:52:32
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FloridNecklace: UID: 73081978 | ID: 120269 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  2:52:33
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Blizzard: UID: 73081980 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 54 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-9  2:52:34
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: DragonFan: UID: 73110889 | ID: 626439 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  3:35:0
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Blizzard: UID: 73081980 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 54 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-9  3:35:32
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FloridNecklace: UID: 73081978 | ID: 120269 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  3:35:33
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: CrimsonRing: UID: 73081979 | ID: 150269 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  3:35:33
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: DragonFan: UID: 73110889 | ID: 626439 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  3:35:35
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: DragonFan: UID: 73110890 | ID: 626439 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  3:35:35
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Blizzard: UID: 73081980 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 54 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-9  3:42:38
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FloridNecklace: UID: 73081978 | ID: 120269 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  3:42:39
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FangCrossSaber: UID: 73081983 | ID: 614439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  3:45:13
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FangCrossSaber: UID: 73081981 | ID: 614439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  3:45:13
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FangCrossSaber: UID: 73081981 | ID: 614439 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  8:35:48
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FangCrossSaber: UID: 73081983 | ID: 614439 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  8:35:49
+------------------------------------------------------------------------------------

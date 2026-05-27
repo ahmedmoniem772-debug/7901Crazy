@@ -1,0 +1,34 @@
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 5000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-12  15:27:52
+************************************************************************************
+************************************************************************************
+you traded with RagnaR
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 80000000
+Date = 2026-3-12  15:54:47
+************************************************************************************
+************************************************************************************
+you traded with KikoNut
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: SavageBone: UID: 73133759 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-12  20:36:25
+************************************************************************************
+************************************************************************************
+you traded with KikoNut
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: P18Anima: UID: 73136484 | ID: 4200018 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-12  20:53:34
+************************************************************************************

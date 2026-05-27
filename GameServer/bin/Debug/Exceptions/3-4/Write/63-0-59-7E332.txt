@@ -1,0 +1,15 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at ElTurky.ServerSockets.Packet.Write(Byte value) in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 153
+   at ElTurky.ServerSockets.Packet.Write(String value, Int32 length) in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 186
+   at ElTurky.ServerSockets.Packet.WriteSeal() in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 355
+   at ElTurky.ServerSockets.Packet.Finalize(UInt16 type) in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 292
+   at ElTurky.Game.MsgServer.MsgGouYuInfo.CreateNinjaItem(Packet stream, MsgGouYuInfoProto obj) in C:\Users\Administrator\Desktop\Server\Source\Systems ElTurky\ArchivesNinja\MsgGouYuInfo.cs:line 88
+   at ElTurky.Game.MsgServer.MsgGouYuInfo.MsgGouYuInfoProto.Create(GameClient user, Ninja _NinjaSprint, TypeID Type, UInt32 UID) in C:\Users\Administrator\Desktop\Server\Source\Systems ElTurky\ArchivesNinja\MsgGouYuInfo.cs:line 63
+   at ElTurky.Game.MsgServer.MsgDataPacket.ViewNinjaInspired(GameClient user, Packet msg, ActionQuery data) in C:\Users\Administrator\Desktop\Server\Source\Game\MsgServer\MsgDataPacket.cs:line 2434
+   at ElTurky.Game.MsgServer.MsgDataPacket.Process(GameClient user, Packet stream) in C:\Users\Administrator\Desktop\Server\Source\Game\MsgServer\MsgDataPacket.cs:line 325
+----End of stack trace----
+

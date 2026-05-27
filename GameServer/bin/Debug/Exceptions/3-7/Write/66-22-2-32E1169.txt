@@ -1,0 +1,12 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at ElTurky.ServerSockets.Packet.Write(UInt16 value) in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 160
+   at ElTurky.Game.MsgServer.MsgBuilder.ChiInfoCreate(Packet stream, Action Typ, UInt32 UID, Int32 Points, UInt32 Locks, UInt32 Count) in C:\Users\Administrator\Desktop\Server\Source\Systems ElTurky\Chi\MsgChiInfo.cs:line 63
+   at ElTurky.Game.MsgServer.MsgChiInfo.MsgHandleChi.SendInfo(GameClient client, Action Action, GameClient Sender) in C:\Users\Administrator\Desktop\Server\Source\Systems ElTurky\Chi\MsgChiInfo.cs:line 386
+   at ElTurky.Game.MsgServer.MsgChiInfo.MsgHandleChi.ExecuteHandler.OnDequeue(ChiClient obj, Int32 time) in C:\Users\Administrator\Desktop\Server\Source\Systems ElTurky\Chi\MsgChiInfo.cs:line 200
+   at ElTurky.ConcurrentSmartThreadQueue`1.Work() in C:\Users\Administrator\Desktop\Server\Source\Cryptography\Extensions\ConcurrentSmartThreadQueue.cs:line 44
+----End of stack trace----
+

@@ -1,0 +1,51 @@
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: RobeofDarkness(Hades)(WithHelmet): UID: 73103818 | ID: 189065 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: KingOfScorpions(Saint): UID: 73101098 | ID: 200517 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Pistil Sprite: UID: 73101936 | ID: 196665 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  13:57:12
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 6000000
+Date = 2026-3-6  13:59:30
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: SkyHammer: UID: 73104925 | ID: 800111 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: SkyHammer: UID: 73104926 | ID: 800111 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  15:3:21
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: HeavenNecklace: UID: 73104927 | ID: 821033 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: NetherArmor: UID: 73104928 | ID: 822071 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: MoonHeadgear: UID: 73104929 | ID: 820073 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: DragonRing: UID: 73104930 | ID: 823059 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: DragonBoots: UID: 73104932 | ID: 824019 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  15:4:4
+************************************************************************************
+************************************************************************************
+you traded with CoupeDGrace
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 30000
+Items received : Name: P12Anima: UID: 73105050 | ID: 4200012 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  15:52:37
+************************************************************************************

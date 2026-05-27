@@ -1,0 +1,46 @@
+************************************************************************************
+you traded with Akuma
+Silver sent: 11
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Breakthrough(Sacred)Material: UID: 73121027 | ID: 3004141 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  0:13:33
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 4500000
+Date = 2026-3-8  1:13:24
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: P13Anima: UID: 73121266 | ID: 4200013 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  1:23:50
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: BeadsofCalmSea: UID: 73123333 | ID: 4100003 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: WingedFrostcatArmor: UID: 73113146 | ID: 200220 | Plus: 0 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  17:23:7
+************************************************************************************
+************************************************************************************
+you traded with Knuckles
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Solar Steel (1-handed): UID: 73110586 | ID: 360409 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Solar Steel (1-handed): UID: 73110391 | ID: 360409 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  21:6:32
+************************************************************************************

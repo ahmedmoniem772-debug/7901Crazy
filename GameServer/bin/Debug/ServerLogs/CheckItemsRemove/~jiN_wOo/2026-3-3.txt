@@ -1,0 +1,10 @@
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: RedRune(B)SelectionPack: UID: 73074146 | ID: 3306562 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-3  8:35:35
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: BlueRune(B)SelectionPack: UID: 73074147 | ID: 3306563 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-3  8:35:41
+------------------------------------------------------------------------------------

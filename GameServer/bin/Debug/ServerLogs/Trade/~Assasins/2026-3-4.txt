@@ -1,0 +1,26 @@
+************************************************************************************
+you traded with ~Zyi|Kes
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: DragonBall: UID: 73082057 | ID: 1088000 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  12:10:52
+************************************************************************************
+************************************************************************************
+you traded with ~Zyi|Kes
+Silver sent: 0
+Cps sent: 600000
+Silver received: 0
+Cps received: 0
+Items sent : Name: P9Anima: UID: 73086833 | ID: 4200009 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  12:55:9
+************************************************************************************
+************************************************************************************
+you traded with ~Zyi|Kes
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 45000
+Date = 2026-3-4  15:4:50
+************************************************************************************

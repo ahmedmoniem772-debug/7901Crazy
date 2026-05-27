@@ -1,0 +1,692 @@
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: SkyHammer: UID: 73099389 | ID: 800111 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: SkyHammer: UID: 73099390 | ID: 800111 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: P9Anima: UID: 73099360 | ID: 4200009 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  3:37:33
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 60000000
+Cps received: 0
+Date = 2026-3-6  3:39:31
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Candy Concerto: UID: 73089713 | ID: 360458 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Refreshing Glow (1-handed): UID: 73098889 | ID: 360452 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  4:12:33
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: SavageBone: UID: 73099673 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  4:29:40
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: SavageBone: UID: 73099683 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  4:36:45
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 265000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-6  4:40:21
+************************************************************************************
+************************************************************************************
+you traded with CoupeDGrace
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 40000
+Date = 2026-3-6  4:48:28
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 51000
+Silver received: 0
+Cps received: 0
+Items sent : Name: SavageBone: UID: 73099718 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  4:51:8
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 3000
+Items received : Name: NetherArmor: UID: 73099723 | ID: 822071 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  4:52:35
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: HeavenNecklace: UID: 73099724 | ID: 821033 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: DragonBoots: UID: 73099725 | ID: 824019 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  4:53:33
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 20000
+Date = 2026-3-6  4:55:21
+************************************************************************************
+************************************************************************************
+you traded with CoupeDGrace
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: SavageBone: UID: 73099736 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  5:2:23
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73099767 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SavageBone: UID: 73099749 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099750 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099751 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099752 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099753 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099754 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099755 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099756 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099757 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099758 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099759 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099760 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099761 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099762 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099763 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099764 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099765 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099766 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  5:9:44
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73099768 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099769 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099770 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099771 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099772 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099773 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099774 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099775 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099776 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099777 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099778 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099779 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099780 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099781 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099782 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  5:11:28
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: SavageBone: UID: 73099801 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099802 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099803 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099804 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099805 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099806 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099807 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099808 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099809 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099810 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099811 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099812 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099813 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099814 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099815 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099816 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099817 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099818 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099819 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  5:29:31
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: SavageBone: UID: 73099825 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  5:33:54
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73099829 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099830 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099831 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099832 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099833 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099834 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099835 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099828 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  5:34:45
+************************************************************************************
+************************************************************************************
+you traded with Rudo
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: HeavenNecklace: UID: 73099836 | ID: 821033 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  5:36:49
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73099860 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099861 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099862 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099863 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099864 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099865 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099866 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099867 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099868 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099869 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099870 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SavageBone: UID: 73099855 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099856 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099857 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099858 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099859 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  5:53:14
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: P9Anima: UID: 73099875 | ID: 4200009 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  7:14:6
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: SavageBone: UID: 73099876 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Turkey Hunter (Terminator): UID: 73090179 | ID: 199785 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  7:14:58
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: SavageBone: UID: 73099885 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  7:26:25
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73099892 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099893 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099894 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099895 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099897 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099898 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099899 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099900 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099901 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099902 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099904 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099905 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099906 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099907 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099908 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099909 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099910 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099911 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  7:29:40
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73099896 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099903 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  7:30:2
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73099923 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099924 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099925 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099926 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099927 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099928 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099929 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099930 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099931 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099932 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099933 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099934 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099935 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: IronRing: UID: 73081986 | ID: 150003 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099936 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099937 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099939 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SavageBone: UID: 73099914 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099917 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099918 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  7:40:13
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73099922 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099938 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099940 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099941 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099942 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099943 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099919 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099920 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099921 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  7:40:33
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73099953 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099954 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099955 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099956 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099957 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099958 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099959 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099960 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099961 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099962 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099963 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099964 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099965 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099966 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099968 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099948 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099949 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099950 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099951 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099952 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  7:41:46
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73099984 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099985 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099969 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099970 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099971 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099972 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099973 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099974 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099975 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099944 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099976 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099946 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099977 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099947 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099978 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099979 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099980 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099981 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099982 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099983 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  7:42:58
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73099967 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099945 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  7:43:13
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73099986 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099987 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099988 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099989 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099990 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099991 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099992 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099993 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099994 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099995 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SavageBone: UID: 73099996 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099997 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099998 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73099999 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100000 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100001 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  7:49:41
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73100015 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100016 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100017 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100018 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100008 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100009 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100010 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100011 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100012 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100013 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100014 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  7:52:34
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73100020 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100022 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100024 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100025 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100026 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100027 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100028 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100029 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100030 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100031 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100032 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100033 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100034 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100035 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100036 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100037 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100038 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100039 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100040 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100041 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  7:59:54
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73100021 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100023 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  8:0:2
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73100050 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100051 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100052 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100054 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100055 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100056 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100057 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100058 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100059 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100060 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100061 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100062 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100063 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100064 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100065 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100066 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100068 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100069 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100070 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100073 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  8:10:2
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73100046 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100077 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100047 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100078 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100079 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100080 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100049 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100081 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100082 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100083 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100053 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100067 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100071 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100072 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100074 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100075 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100076 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  8:10:33
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Stone(+6): UID: 73100057 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: SavageBone: UID: 73100043 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  8:12:12
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73100048 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SavageBone: UID: 73100019 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100057 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  8:12:27
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73100108 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100109 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100110 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100111 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100112 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100093 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100094 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100095 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100096 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100097 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100098 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100099 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100100 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100101 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100102 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100103 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100104 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100105 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100106 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100107 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  8:18:38
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+6): UID: 73100113 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+6): UID: 73100114 | ID: 730006 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  8:18:47
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: SavageBone: UID: 73101627 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: SavageBone: UID: 73101603 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: SavageBone: UID: 73101581 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  10:53:32
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: SavageBone: UID: 73101737 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  11:3:18
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: SavageBone: UID: 73102145 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: SavageBone: UID: 73102207 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: SavageBone: UID: 73101929 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  11:33:2
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 1000000
+Date = 2026-3-6  12:17:45
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 4000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-6  12:22:43
+************************************************************************************
+************************************************************************************
+you traded with *Saber*
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: RobeofDarkness(Hades)(WithHelmet): UID: 73103818 | ID: 189065 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: KingOfScorpions(Saint): UID: 73101098 | ID: 200517 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Pistil Sprite: UID: 73101936 | ID: 196665 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  13:57:12
+************************************************************************************
+************************************************************************************
+you traded with *Saber*
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: SkyHammer: UID: 73104925 | ID: 800111 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SkyHammer: UID: 73104926 | ID: 800111 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  15:3:21
+************************************************************************************
+************************************************************************************
+you traded with *Saber*
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: HeavenNecklace: UID: 73104927 | ID: 821033 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: NetherArmor: UID: 73104928 | ID: 822071 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: MoonHeadgear: UID: 73104929 | ID: 820073 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: DragonRing: UID: 73104930 | ID: 823059 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: DragonBoots: UID: 73104932 | ID: 824019 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  15:4:4
+************************************************************************************

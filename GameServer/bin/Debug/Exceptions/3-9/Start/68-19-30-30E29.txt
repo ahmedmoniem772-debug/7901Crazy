@@ -1,0 +1,10 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at ElTurky.Game.MsgTournaments.MsgClassPKWar.War.Start(GameMap map) in C:\Users\Administrator\Desktop\Server\Source\Game\MyTournaments\MsgClassPKWar.cs:line 247
+   at ElTurky.Game.MsgTournaments.MsgClassPKWar.Start() in C:\Users\Administrator\Desktop\Server\Source\Game\MyTournaments\MsgClassPKWar.cs:line 74
+   at ElTurky.Game.MsgTournaments.MsgSchedules.CheckUp() in C:\Users\Administrator\Desktop\Server\Source\Game\MyTournaments\MsgSchedules.cs:line 322
+----End of stack trace----
+

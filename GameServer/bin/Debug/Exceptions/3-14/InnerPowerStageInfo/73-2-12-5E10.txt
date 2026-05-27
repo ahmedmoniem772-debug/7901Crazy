@@ -1,0 +1,12 @@
+----Exception message----
+Index was outside the bounds of the array.
+----End of exception message----
+
+----Stack trace----
+   at ElTurky.Game.MsgServer.MsgBuilder.InnerPowerStageInfo(Packet stream, ActionID action, UInt32 UID, Stage stage) in C:\Users\Administrator\Desktop\Server\Source\Systems ElTurky\InnerPower\MsgInnerPowerInfoStage.cs:line 49
+   at ElTurky.Game.MsgServer.MsgItemUsuagePacket.UseItem(MsgGameItem item, GameClient client, Packet stream) in C:\Users\Administrator\Desktop\Server\Source\Systems ElTurky\MsgItem\MsgItemUsuagePacket.cs:line 21905
+   at ElTurky.Game.MsgServer.MsgItemUsuagePacket.EquipItem(GameClient client, Packet stream, UInt32 id, UInt32 dwParam1, UInt32 timestamp, UInt32 dwParam2, UInt32 dwParam3, UInt32 dwparam4) in C:\Users\Administrator\Desktop\Server\Source\Systems ElTurky\MsgItem\MsgItemUsuagePacket.cs:line 5597
+   at ElTurky.Game.MsgServer.MsgItemUsuagePacket.ItemUsuage(GameClient client, Packet stream) in C:\Users\Administrator\Desktop\Server\Source\Systems ElTurky\MsgItem\MsgItemUsuagePacket.cs:line 4688
+   at ElTurky.Program.Game_Receive(SecuritySocket obj, Packet stream) in C:\Users\Administrator\Desktop\Server\Source\Program.cs:line 1562
+----End of stack trace----
+

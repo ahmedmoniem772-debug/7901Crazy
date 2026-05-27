@@ -1,0 +1,195 @@
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: CelestialStone: UID: 73062328 | ID: 721259 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  15:11:33
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: ExemptionToken: UID: 73062329 | ID: 723701 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  15:13:1
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: DragonBall: UID: 73062332 | ID: 1088000 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  15:13:42
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: RedRune(B)SelectionPack: UID: 73062326 | ID: 3306562 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  15:15:34
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: BlueRune(B)SelectionPack: UID: 73062327 | ID: 3306563 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  15:15:42
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: AlmightyEmperor`sPillar: UID: 73062343 | ID: 622439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-2-26  15:17:33
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: AlmightyEmperor`sPillar: UID: 73062342 | ID: 622439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-2-26  15:17:33
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: CrimsonRing: UID: 73062336 | ID: 150269 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-2-26  15:17:35
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Blizzard: UID: 73062337 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-2-26  15:17:35
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: WhiteLotusFrock: UID: 73062340 | ID: 136309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-2-26  15:17:36
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: XumiCap: UID: 73062341 | ID: 143309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-2-26  15:17:37
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: FloridNecklace: UID: 73062335 | ID: 120269 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-2-26  15:17:37
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: StarTower: UID: 73062346 | ID: 202009 | Plus: 12 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperGloryGem | S2: SuperGloryGem 
+Date = 2026-2-26  15:17:54
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: TempestWing: UID: 73062345 | ID: 204009 | Plus: 12 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperThunderGem | S2: SuperGloryGem 
+Date = 2026-2-26  15:17:54
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: RidingCrop: UID: 73062347 | ID: 203009 | Plus: 12 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  15:17:54
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: HeavenFan: UID: 73062344 | ID: 201009 | Plus: 12 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperThunderGem | S2: SuperThunderGem 
+Date = 2026-2-26  15:17:55
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Steed: UID: 73062348 | ID: 300000 | Plus: 12 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  15:17:55
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: P6Anima: UID: 73062432 | ID: 4200006 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  17:45:21
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: P12Anima: UID: 73062433 | ID: 4200012 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  17:45:40
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: SmallLotteryTicketPack: UID: 73065235 | ID: 724002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  17:48:1
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: SmallLotteryTicketPack: UID: 73065236 | ID: 724002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  17:48:1
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: SmallLotteryTicketPack: UID: 73065237 | ID: 724002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  17:48:1
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: SmallLotteryTicketPack: UID: 73065234 | ID: 724002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  17:48:2
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: SmallLotteryTicketPack: UID: 73065238 | ID: 724002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  17:48:3
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: SmallLotteryTicketPack: UID: 73065240 | ID: 724002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  17:48:15
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: SmallLotteryTicketPack: UID: 73065241 | ID: 724002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  17:48:15
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: SmallLotteryTicketPack: UID: 73065242 | ID: 724002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  17:48:15
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: SmallLotteryTicketPack: UID: 73065243 | ID: 724002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  17:48:16
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: SmallLotteryTicketPack: UID: 73065244 | ID: 724002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  17:48:16
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: SmallLotteryTicketPack: UID: 73065245 | ID: 724002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  17:48:17
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: SmallLotteryTicketPack: UID: 73065246 | ID: 724002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  17:48:17
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: SmallLotteryTicketPack: UID: 73065248 | ID: 724002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  17:48:20
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: SmallLotteryTicketPack: UID: 73065249 | ID: 724002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  17:48:20
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: SmallLotteryTicketPack: UID: 73065247 | ID: 724002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  17:48:21
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: RefinedhGemPack: UID: 73065250 | ID: 3303162 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  17:48:21
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Class1MoneyBag: UID: 73065259 | ID: 723713 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  17:48:29
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: GearRefinedGemBag: UID: 73065261 | ID: 3303164 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  18:28:49
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Class4MoneyBag: UID: 73065255 | ID: 723716 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  18:52:42
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Panda Ponpon: UID: 73065271 | ID: 4330000 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-2-26  19:18:58
+------------------------------------------------------------------------------------

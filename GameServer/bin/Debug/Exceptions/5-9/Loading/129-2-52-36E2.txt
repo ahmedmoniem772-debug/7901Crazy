@@ -1,0 +1,10 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at ElTurky.DatabaseLoad.Loading() in D:\سورسات\Source7901\Database\DatabaseLoad.cs:line 109
+   at ElTurky.Server.Initialize() in D:\سورسات\Source7901\Database\Server.cs:line 554
+   at ElTurky.Program.Main(String[] args) in D:\سورسات\Source7901\Program.cs:line 287
+----End of stack trace----
+

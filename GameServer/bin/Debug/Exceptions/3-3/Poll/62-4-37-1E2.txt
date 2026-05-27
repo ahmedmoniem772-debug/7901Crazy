@@ -1,0 +1,9 @@
+----Exception message----
+An operation was attempted on something that is not a socket
+----End of exception message----
+
+----Stack trace----
+   at System.Net.Sockets.Socket.Poll(Int32 microSeconds, SelectMode mode)
+   at ElTurky.ServerSockets.ServerSocket.Accept() in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\ServerSocket.cs:line 108
+----End of stack trace----
+

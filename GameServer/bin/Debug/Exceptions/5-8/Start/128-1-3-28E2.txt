@@ -1,0 +1,10 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at ElTurky.Game.MsgTournaments.MsgWarOfPlayers.Start() in D:\سورسات\Source 7809\Game\MyTournaments\All Pole\MsgWarOfPlayers.cs:line 43
+   at ElTurky.Game.MsgTournaments.MsgWarOfPlayers.CheckUP() in D:\سورسات\Source 7809\Game\MyTournaments\All Pole\MsgWarOfPlayers.cs:line 69
+   at ElTurky.Game.MsgTournaments.MsgSchedules.CheckUp() in D:\سورسات\Source 7809\Game\MyTournaments\MsgSchedules.cs:line 194
+----End of stack trace----
+

@@ -1,0 +1,14 @@
+----Exception message----
+The given key was not present in the dictionary.
+----End of exception message----
+
+----Stack trace----
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at ElTurky.Game.MsgServer.MsgGameItem.set_ITEM_ID(UInt32 value) in D:\سورسات\Source 7809\Systems ElTurky\MsgItem\MsgGameItem.cs:line 726
+   at ElTurky.Booths.CreateBooths() in D:\سورسات\Source 7809\Systems ElTurky\Booth\Booths.cs:line 283
+   at ElTurky.Booths.Load() in D:\سورسات\Source 7809\Systems ElTurky\Booth\Booths.cs:line 152
+   at ElTurky.DatabaseLoad.Loading() in D:\سورسات\Source 7809\Database\DatabaseLoad.cs:line 139
+   at ElTurky.Server.Initialize() in D:\سورسات\Source 7809\Database\Server.cs:line 552
+   at ElTurky.Program.Main(String[] args) in D:\سورسات\Source 7809\Program.cs:line 287
+----End of stack trace----
+

@@ -1,0 +1,65 @@
+************************************************************************************
+you traded with ~i||usions
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: DragonGem: UID: 73074255 | ID: 700013 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: OblivionDew: UID: 73074257 | ID: 711083 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: OblivionDew: UID: 73074258 | ID: 711083 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Rockroot: UID: 73074175 | ID: 200802 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: OblivionDew: UID: 73074268 | ID: 711083 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: AssassinSuit: UID: 73074180 | ID: 192185 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: GoodLuck: UID: 73074181 | ID: 191705 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: TempestWing: UID: 73074244 | ID: 204009 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: HeavenFan: UID: 73074245 | ID: 201009 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: StarTower: UID: 73074246 | ID: 202009 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: RidingCrop: UID: 73074247 | ID: 203009 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: SouthofCloud: UID: 73074186 | ID: 182705 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: ExemptionToken: UID: 73074190 | ID: 723701 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-3  9:26:32
+************************************************************************************
+************************************************************************************
+you traded with ~Zyi|Kes
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: RelicsNecklace: UID: 73074288 | ID: 120213 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: MagicBoots: UID: 73074289 | ID: 160223 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: GrudgeVeil: UID: 73074292 | ID: 112103 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: OwlVest: UID: 73074293 | ID: 135103 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: CrownKatana: UID: 73074297 | ID: 601233 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: CrownKatana: UID: 73074298 | ID: 601233 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: TempestWing: UID: 73074244 | ID: 204009 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: HeavenFan: UID: 73074245 | ID: 201009 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: StarTower: UID: 73074246 | ID: 202009 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: RidingCrop: UID: 73074247 | ID: 203009 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: PorcelainRing: UID: 73074281 | ID: 151016 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: ExemptionToken: UID: 73074190 | ID: 723701 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-3  9:57:49
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 5000000
+Date = 2026-3-3  11:48:16
+************************************************************************************
+************************************************************************************
+you traded with ~Zyi|Kes
+Silver sent: 0
+Cps sent: 4000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-3  11:49:31
+************************************************************************************
+************************************************************************************
+you traded with ~Zyi|Kes
+Silver sent: 0
+Cps sent: 1000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-3  11:53:0
+************************************************************************************

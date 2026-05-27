@@ -1,0 +1,29 @@
+************************************************************************************
+you traded with RagnaR
+Silver sent: 0
+Cps sent: 100000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-4  0:36:31
+************************************************************************************
+************************************************************************************
+you traded with Hermelyn
+Silver sent: 0
+Cps sent: 10000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-4  19:20:13
+************************************************************************************
+************************************************************************************
+you traded with NinjaTurtle
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Stone(+8): UID: 73089231 | ID: 730008 | Plus: 8 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+8): UID: 73089232 | ID: 730008 | Plus: 8 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+8): UID: 73089233 | ID: 730008 | Plus: 8 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+8): UID: 73089234 | ID: 730008 | Plus: 8 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Stone(+8): UID: 73089235 | ID: 730008 | Plus: 8 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  23:8:46
+************************************************************************************

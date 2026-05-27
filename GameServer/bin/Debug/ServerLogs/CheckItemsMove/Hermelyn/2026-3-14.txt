@@ -1,0 +1,105 @@
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: DragonRuler: UID: 73117368 | ID: 619029 | Plus: 12 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-14  5:56:4
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: CopperRing: UID: 73066759 | ID: 150019 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  5:59:9
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: LightNecklace: UID: 73066758 | ID: 120009 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  5:59:11
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: OxhideBoots: UID: 73066760 | ID: 160019 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  5:59:13
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: OxhideBoots: UID: 73117369 | ID: 160019 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperPhoenixGem | S2: SuperPhoenixGem 
+Date = 2026-3-14  5:59:17
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: PerfumeBag: UID: 73117373 | ID: 121009 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperPhoenixGem | S2: SuperPhoenixGem 
+Date = 2026-3-14  5:59:17
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: WoodBracelet: UID: 73117372 | ID: 152009 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperPhoenixGem | S2: SuperPhoenixGem 
+Date = 2026-3-14  5:59:18
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: JustBacksword: UID: 73117367 | ID: 421029 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperPhoenixGem | S2: SuperPhoenixGem 
+Date = 2026-3-14  6:1:27
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Nobunaga`sSwiftClaw: UID: 73146431 | ID: 616439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  6:2:24
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Nobunaga`sSwiftClaw: UID: 73146432 | ID: 616439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  6:2:24
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: TaoRobe: UID: 73117370 | ID: 134009 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperPhoenixGem | S2: SuperPhoenixGem 
+Date = 2026-3-14  6:3:30
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: DragonKatana: UID: 73146433 | ID: 601053 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-14  6:8:35
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: DragonKatana: UID: 73146434 | ID: 601053 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-14  6:8:36
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Nobunaga`sSwiftClaw: UID: 73146431 | ID: 616439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  6:10:55
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Nobunaga`sSwiftClaw: UID: 73146432 | ID: 616439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  6:10:55
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: WoodBracelet: UID: 73117372 | ID: 152009 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperPhoenixGem | S2: SuperPhoenixGem 
+Date = 2026-3-14  6:12:37
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: OxhideBoots: UID: 73117369 | ID: 160019 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperPhoenixGem | S2: SuperPhoenixGem 
+Date = 2026-3-14  6:12:38
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: DestinyCap: UID: 73117371 | ID: 114009 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperPhoenixGem | S2: SuperPhoenixGem 
+Date = 2026-3-14  6:12:47
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: PerfumeBag: UID: 73117373 | ID: 121009 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperPhoenixGem | S2: SuperPhoenixGem 
+Date = 2026-3-14  6:12:52
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: HanzoKatana: UID: 73146427 | ID: 601439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  6:38:27
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: HanzoKatana: UID: 73146428 | ID: 601439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  6:38:27
+------------------------------------------------------------------------------------

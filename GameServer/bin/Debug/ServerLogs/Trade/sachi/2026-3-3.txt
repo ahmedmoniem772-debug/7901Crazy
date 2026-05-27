@@ -1,0 +1,65 @@
+************************************************************************************
+you traded with Burssst
+Silver sent: 0
+Cps sent: 0
+Silver received: 2000000
+Cps received: 10000000
+Date = 2026-3-3  18:18:11
+************************************************************************************
+************************************************************************************
+you traded with ~Zyi|Kes
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: P8Anima: UID: 73081242 | ID: 4200008 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-3  20:21:24
+************************************************************************************
+************************************************************************************
+you traded with ~Zyi|Kes
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: MidsummerSuit: UID: 73074657 | ID: 192495 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Starry Romance (Blossom): UID: 73080989 | ID: 200708 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: P7Anima: UID: 73080929 | ID: 4200007 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Firefly Flicker: UID: 73081085 | ID: 194025 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: SpringShirt: UID: 73081273 | ID: 192435 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: StarRoosterEndlessExplorer: UID: 73081274 | ID: 200590 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Spring Goosie: UID: 73074343 | ID: 200921 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-3  20:27:1
+************************************************************************************
+************************************************************************************
+you traded with Burnnn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 2000000
+Date = 2026-3-3  21:8:33
+************************************************************************************
+************************************************************************************
+you traded with ~Zyi|Kes
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: P8Anima: UID: 73081568 | ID: 4200008 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-3  21:35:48
+************************************************************************************
+************************************************************************************
+you traded with ~Zyi|Kes
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 20000
+Date = 2026-3-3  21:38:8
+************************************************************************************
+************************************************************************************
+you traded with dunwar
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 5000000
+Date = 2026-3-3  23:43:29
+************************************************************************************

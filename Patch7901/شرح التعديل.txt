@@ -1,0 +1,9 @@
+هتفتح ملف WolfEngine.dat
+
+بال
+Notepad
+
+تغير الاي بي و تفتح اللعبة من
+Start_DX9.bat
+أو
+Start_DX8.bat

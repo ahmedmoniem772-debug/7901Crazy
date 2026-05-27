@@ -1,0 +1,7 @@
+UserName[Acc] |1| UIDAccount |1294141 | IPAccount | 26.96.243.51 |  PasswordAccount  [1] [The Clock] 0:6:44
+UserName[Acc] |1| UIDAccount |1294141 | IPAccount | 26.96.243.51 |  PasswordAccount  [1] [The Clock] 0:10:2
+UserName[Acc] |1| UIDAccount |1294141 | IPAccount | 26.96.243.51 |  PasswordAccount  [1] [The Clock] 0:42:3
+UserName[Acc] |1| UIDAccount |1294141 | IPAccount | 26.96.243.51 |  PasswordAccount  [1] [The Clock] 0:53:17
+UserName[Acc] |1| UIDAccount |1294141 | IPAccount | 26.96.243.51 |  PasswordAccount  [1] [The Clock] 1:55:27
+UserName[Acc] |1| UIDAccount |1294141 | IPAccount | 26.96.243.51 |  PasswordAccount  [1] [The Clock] 2:4:17
+UserName[Acc] |1| UIDAccount |1294141 | IPAccount | 26.96.243.51 |  PasswordAccount  [1] [The Clock] 2:26:39

@@ -1,0 +1,67 @@
+************************************************************************************
+you traded with ISeeDeadPeople
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 106000
+Date = 2026-3-13  2:10:23
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 1200000
+Date = 2026-3-13  11:0:57
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 300000
+Date = 2026-3-13  13:35:35
+************************************************************************************
+************************************************************************************
+you traded with ISeeDeadPeople
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 700000
+Date = 2026-3-13  13:36:50
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: BeadsofCalmSea: UID: 73142462 | ID: 4100003 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: WesternMirror: UID: 73142465 | ID: 4100001 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  14:48:49
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 4000000
+Date = 2026-3-13  17:26:26
+************************************************************************************
+************************************************************************************
+you traded with ISeeDeadPeople
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 400000
+Date = 2026-3-13  18:10:39
+************************************************************************************
+************************************************************************************
+you traded with RagnaR
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 2000000
+Items sent : Name: HeartlessSeal: UID: 73121749 | ID: 4100004 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  20:9:19
+************************************************************************************

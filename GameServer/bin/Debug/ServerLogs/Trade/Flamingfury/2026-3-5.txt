@@ -1,0 +1,54 @@
+************************************************************************************
+you traded with Equalizer
+Silver sent: 0
+Cps sent: 0
+Silver received: 1000000
+Cps received: 10000
+Date = 2026-3-5  21:18:12
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: P9Anima: UID: 73094386 | ID: 4200009 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: DuckQuant: UID: 73084256 | ID: 360257 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: DuckQuant: UID: 73084257 | ID: 360257 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-5  21:20:11
+************************************************************************************
+************************************************************************************
+you traded with CoupeDGrace
+Silver sent: 1900000
+Cps sent: 6000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-5  21:29:59
+************************************************************************************
+************************************************************************************
+you traded with CoupeDGrace
+Silver sent: 0
+Cps sent: 40000
+Silver received: 0
+Cps received: 0
+Items sent : Name: P11Anima: UID: 73094312 | ID: 4200011 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: P12Anima: UID: 73094390 | ID: 4200012 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-5  21:37:19
+************************************************************************************
+************************************************************************************
+you traded with CoupeDGrace
+Silver sent: 0
+Cps sent: 91000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-5  21:54:55
+************************************************************************************
+************************************************************************************
+you traded with CoupeDGrace
+Silver sent: 0
+Cps sent: 58000
+Silver received: 0
+Cps received: 0
+Items sent : Name: P11Anima: UID: 73094651 | ID: 4200011 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-5  22:29:4
+************************************************************************************

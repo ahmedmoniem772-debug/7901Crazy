@@ -1,0 +1,20 @@
+************************************************************************************
+you traded with ~Sku||s
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Gory Count (Rose): UID: 73107663 | ID: 191865 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Rose Knight (Glory): UID: 73107665 | ID: 198115 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  0:39:59
+************************************************************************************
+************************************************************************************
+you traded with ~Sku||s
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: SnowFox: UID: 73080935 | ID: 200485 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: SnowFox: UID: 73086108 | ID: 200475 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  9:4:41
+************************************************************************************

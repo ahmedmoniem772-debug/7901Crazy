@@ -1,0 +1,76 @@
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Solar Steel (1-handed): UID: 73110586 | ID: 360409 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Solar Steel (1-handed): UID: 73110391 | ID: 360409 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: MiraculousGourd: UID: 73111291 | ID: 2100025 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  14:28:31
+************************************************************************************
+************************************************************************************
+you traded with Knuckles
+Silver sent: 0
+Cps sent: 150000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-7  15:7:40
+************************************************************************************
+************************************************************************************
+you traded with Knuckles
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: P11Anima: UID: 73111661 | ID: 4200011 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  15:7:52
+************************************************************************************
+************************************************************************************
+you traded with Knuckles
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: BuddaBeads: UID: 73112006 | ID: 800725 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BuddaBeads: UID: 73112008 | ID: 800725 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  15:56:55
+************************************************************************************
+************************************************************************************
+you traded with Knuckles
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: LunarFox(Illusion): UID: 73111950 | ID: 200640 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: SnowFox: UID: 73111962 | ID: 200480 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Bloom Steed (Cherry): UID: 73111319 | ID: 200567 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: FieryBeast: UID: 73111698 | ID: 200579 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  16:1:42
+************************************************************************************
+************************************************************************************
+you traded with Knuckles
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: DragonBoots: UID: 73112075 | ID: 824019 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Breakthrough(Sacred)Material: UID: 73100288 | ID: 3004163 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  16:4:58
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 250000
+Date = 2026-3-7  22:1:9
+************************************************************************************
+************************************************************************************
+you traded with Knuckles
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 250000
+Date = 2026-3-7  23:39:59
+************************************************************************************

@@ -1,0 +1,27 @@
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: DiamondBow(Shadow): UID: 73117317 | ID: 370051 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: DiamondBow(Shadow): UID: 73122526 | ID: 370051 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  11:13:35
+************************************************************************************
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 400000
+Date = 2026-3-8  18:44:37
+************************************************************************************
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: P12Anima: UID: 73123712 | ID: 4200012 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  19:12:14
+************************************************************************************

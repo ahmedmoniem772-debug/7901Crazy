@@ -1,0 +1,174 @@
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Mahmoud.resources
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.SpawnMonster.resources
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\Be.Windows.Forms.HexBox.resources
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.MY_System.ChangeSystem.SystemBanned.HexBox.strings.resources
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Panels.AccountsForm.resources
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Panels.ChatPanal.resources
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Chi.resources
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Controlpanel.resources
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.JiangHu.resources
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Packets.resources
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Panel.resources
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Systems.ChangeSystem.SystemBanned.Panels.PanelCharge.resources
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Panels.NightMareFo.resources
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\bin\Debug\GameServer.exe.config
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\bin\Debug\GameServer.exe.manifest
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\bin\Debug\GameServer.application
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\bin\Debug\GameServer.exe
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\bin\Debug\GameServer.pdb
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\bin\Debug\en\GameServer.resources.dll
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\en\GameServer.resources.dll
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.TrustInfo.xml
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.exe.manifest
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.application
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.exe
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.pdb
+C:\Users\Administrator\Downloads\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\bin\Debug\GameServer.exe.config
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\bin\Debug\GameServer.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\bin\Debug\GameServer.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\bin\Debug\GameServer.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\bin\Debug\GameServer.pdb
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\bin\Debug\en\GameServer.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Mahmoud.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.SpawnMonster.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\Be.Windows.Forms.HexBox.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.MY_System.ChangeSystem.SystemBanned.HexBox.strings.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Chi.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Controlpanel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.JiangHu.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Packets.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Panel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Systems.ChangeSystem.SystemBanned.Panels.PanelCharge.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Panels.NightMareFo.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\en\GameServer.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.TrustInfo.xml
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7871\obj\Debug\GameServer.pdb
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\bin\Debug\GameServer.exe.config
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\bin\Debug\GameServer.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\bin\Debug\GameServer.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\bin\Debug\GameServer.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\bin\Debug\GameServer.pdb
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\bin\Debug\en\GameServer.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.Mahmoud.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.SpawnMonster.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\Be.Windows.Forms.HexBox.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.MY_System.ChangeSystem.SystemBanned.HexBox.strings.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.Chi.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.Controlpanel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.JiangHu.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.Packets.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.Panel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.Systems.ChangeSystem.SystemBanned.Panels.PanelCharge.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.Panels.NightMareFo.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\en\GameServer.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.TrustInfo.xml
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.pdb
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7875\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\bin\Debug\GameServer.exe.config
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\bin\Debug\GameServer.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\bin\Debug\GameServer.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\bin\Debug\GameServer.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\bin\Debug\GameServer.pdb
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\bin\Debug\en\GameServer.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.Mahmoud.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.SpawnMonster.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\Be.Windows.Forms.HexBox.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.MY_System.ChangeSystem.SystemBanned.HexBox.strings.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.Chi.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.Controlpanel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.JiangHu.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.Packets.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.Panel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.Systems.ChangeSystem.SystemBanned.Panels.PanelCharge.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.Panels.NightMareFo.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\en\GameServer.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.TrustInfo.xml
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.csproj.Up2Date
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7882\obj\Debug\GameServer.pdb
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\bin\Debug\GameServer.exe.config
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\bin\Debug\GameServer.exe.manifest
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\bin\Debug\GameServer.application
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\bin\Debug\GameServer.exe
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\bin\Debug\GameServer.pdb
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\bin\Debug\en\GameServer.resources.dll
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.Mahmoud.resources
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.SpawnMonster.resources
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\Be.Windows.Forms.HexBox.resources
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.MY_System.ChangeSystem.SystemBanned.HexBox.strings.resources
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.Chi.resources
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.Controlpanel.resources
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.JiangHu.resources
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.Packets.resources
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.Panel.resources
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.Systems.ChangeSystem.SystemBanned.Panels.PanelCharge.resources
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.Panels.NightMareFo.resources
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\en\GameServer.resources.dll
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.TrustInfo.xml
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.exe.manifest
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.application
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.exe
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.pdb
+C:\Users\Administrator\Desktop\ElTurky 3D7880\Suorce 7882\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\bin\Debug\ElTurky.exe.config
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\bin\Debug\ElTurky.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\bin\Debug\ElTurky.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\bin\Debug\ElTurky.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\bin\Debug\ElTurky.pdb
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\bin\Debug\en\ElTurky.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\GameServer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Mahmoud.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.SpawnMonster.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\Be.Windows.Forms.HexBox.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Systems_ElTurky.ChangeSystem.SystemBanned.HexBox.strings.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Chi.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Controlpanel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.JiangHu.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Packets.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Panel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Systems.ChangeSystem.SystemBanned.Panels.PanelCharge.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Panels.NightMareFo.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\GameServer.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\en\ElTurky.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.TrustInfo.xml
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\GameServer.csproj.Up2Date
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.pdb

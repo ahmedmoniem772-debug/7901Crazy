@@ -1,0 +1,100 @@
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: CrimsonRing: UID: 73065391 | ID: 150269 | Plus: 12 | Bless: 7 | Anima: 4200019 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  0:14:17
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FloridNecklace: UID: 73065390 | ID: 120269 | Plus: 12 | Bless: 7 | Anima: 4200019 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  0:14:18
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Blizzard: UID: 73065392 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 4200019 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  0:14:21
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Cirrus Blade: UID: 73088659 | ID: 608439 | Plus: 12 | Bless: 7 | Anima: 4200019 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  0:14:24
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Cirrus Robe: UID: 73088658 | ID: 103309 | Plus: 12 | Bless: 7 | Anima: 4200019 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  0:14:25
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Cirrus Blade: UID: 73088660 | ID: 608439 | Plus: 12 | Bless: 7 | Anima: 4200019 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  0:14:26
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Cirrus Hat: UID: 73088657 | ID: 171309 | Plus: 12 | Bless: 7 | Anima: 4200019 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  0:14:26
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Nobunaga`sSwiftClaw: UID: 73146023 | ID: 616439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  0:44:11
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Nobunaga`sSwiftClaw: UID: 73146022 | ID: 616439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  0:44:12
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: NightmareHood: UID: 73146021 | ID: 123309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  0:44:13
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: NightmareVest: UID: 73146020 | ID: 135309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  0:44:14
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Nobunaga`sSwiftClaw: UID: 73146023 | ID: 616439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  0:45:29
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Nobunaga`sSwiftClaw: UID: 73146022 | ID: 616439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  0:45:30
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: NightmareHood: UID: 73146021 | ID: 123309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  0:45:31
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: NightmareVest: UID: 73146020 | ID: 135309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  0:45:32
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: CrimsonRing: UID: 73065391 | ID: 150269 | Plus: 12 | Bless: 7 | Anima: 4200019 | Perfection Level: 54 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-14  0:46:20
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: HolyGrail: UID: 73082672 | ID: 2100095 | Plus: 0 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-14  3:54:51
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: GoldPrize: UID: 73146234 | ID: 2100075 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-14  3:55:51
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: SilverDragonslayer(1-handed): UID: 73098855 | ID: 360201 | Plus: 0 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-14  4:37:7
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: SilverDragonslayer(1-handed): UID: 73098854 | ID: 360201 | Plus: 0 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-14  4:37:10
+------------------------------------------------------------------------------------

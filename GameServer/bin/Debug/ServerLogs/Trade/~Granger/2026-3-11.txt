@@ -1,0 +1,51 @@
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: SoulChariot: UID: 73133826 | ID: 200606 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-11  18:46:43
+************************************************************************************
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Starlight Oracle: UID: 73133907 | ID: 3347152 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Brilliance Oracle: UID: 73134002 | ID: 3347156 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Light Oracle: UID: 73134003 | ID: 3347155 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Moonshade Oracle: UID: 73133950 | ID: 3347153 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Dawn Oracle: UID: 73133921 | ID: 3347154 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Victorious Buddha: UID: 73133897 | ID: 10060110 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-11  19:37:45
+************************************************************************************
+************************************************************************************
+you traded with KikoNut
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: P10Anima: UID: 73134274 | ID: 4200010 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: P7Anima: UID: 73133903 | ID: 4200007 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-11  20:54:15
+************************************************************************************
+************************************************************************************
+you traded with KikoNut
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: ShiningLion(Glory): UID: 73110710 | ID: 200669 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Verdant Veil: UID: 73090805 | ID: 193935 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-11  20:55:41
+************************************************************************************
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 300000
+Date = 2026-3-11  21:29:24
+************************************************************************************

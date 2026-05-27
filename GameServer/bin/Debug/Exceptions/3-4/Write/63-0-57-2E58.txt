@@ -1,0 +1,14 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at ElTurky.ServerSockets.Packet.Write(Byte value) in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 153
+   at ElTurky.ServerSockets.Packet.Write(String value, Int32 length) in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 186
+   at ElTurky.ServerSockets.Packet.WriteSeal() in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 355
+   at ElTurky.ServerSockets.Packet.Finalize(UInt16 type) in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 292
+   at ElTurky.Game.MsgServer.MsgUpdate.GetArray(Packet stream) in C:\Users\Administrator\Desktop\Server\Source\Systems ElTurky\MsgUpdateFlag\MsgUpdatePacket.cs:line 746
+   at ElTurky.Role.Player.SendUpdate(Packet stream, Int64 Value, DataType datatype, Boolean scren) in C:\Users\Administrator\Desktop\Server\Source\Role\Player.cs:line 5431
+   at ElTurky.Client.PoolProcesses.BuffersCallback(GameClient client) in C:\Users\Administrator\Desktop\Server\Source\Threading\PoolProcesses.cs:line 6172
+----End of stack trace----
+

@@ -1,0 +1,8 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at ElTurky.Game.MsgTournaments.MsgSchedules.CheckUp() in D:\سورسات\Source 7809\Game\MyTournaments\MsgSchedules.cs:line 196
+----End of stack trace----
+

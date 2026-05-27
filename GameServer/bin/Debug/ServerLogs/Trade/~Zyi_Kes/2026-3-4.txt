@@ -1,0 +1,211 @@
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 11000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-4  7:43:5
+************************************************************************************
+************************************************************************************
+you traded with ~rai|Kage
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Winter Sunbeam: UID: 73085786 | ID: 197175 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: P8Anima: UID: 73083345 | ID: 4200008 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: PureLotus: UID: 73083352 | ID: 200572 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Firefly Flicker: UID: 73083353 | ID: 194025 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Solar Armor: UID: 73083354 | ID: 196625 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: P7Anima: UID: 73085775 | ID: 4200007 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: TenderFlame: UID: 73081500 | ID: 188495 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: P9Anima: UID: 73083205 | ID: 4200009 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Sweet Cloud (Melody): UID: 73074653 | ID: 200832 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: LionElegy: UID: 73083210 | ID: 195815 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: MythofDCCavaliers(Signed): UID: 73083211 | ID: 194715 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  7:44:35
+************************************************************************************
+************************************************************************************
+you traded with ~rai|Kage
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: P8Anima: UID: 73086100 | ID: 4200008 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Solar Steel (1-handed): UID: 73086106 | ID: 360409 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SolarMonkey: UID: 73086107 | ID: 200559 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SnowFox: UID: 73086108 | ID: 200475 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: P9Anima: UID: 73086032 | ID: 4200009 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  8:8:49
+************************************************************************************
+************************************************************************************
+you traded with ~rai|Kage
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Dragon Whelp (Frost): UID: 73086153 | ID: 200769 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: HolyLotus(Goddess): UID: 73086154 | ID: 200537 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  8:20:48
+************************************************************************************
+************************************************************************************
+you traded with ~rai|Kage
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: SnakeDance: UID: 73086390 | ID: 360226 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: P7Anima: UID: 73086459 | ID: 4200007 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SolarLight: UID: 73086461 | ID: 360223 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  9:9:43
+************************************************************************************
+************************************************************************************
+you traded with ~rai|Kage
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Superb Duckling (1-Handed): UID: 73086460 | ID: 360393 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Twilight Waltz (Grand): UID: 73086463 | ID: 198195 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Petal Reverie: UID: 73086466 | ID: 197165 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: StarRoosterEndlessDream: UID: 73086467 | ID: 200589 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  9:10:54
+************************************************************************************
+************************************************************************************
+you traded with ~rai|Kage
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: P9Anima: UID: 73086469 | ID: 4200009 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  9:47:4
+************************************************************************************
+************************************************************************************
+you traded with sachi
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Dawn Steed: UID: 73086531 | ID: 200903 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: DreamyFairySuit: UID: 73086532 | ID: 192135 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: StarRoosterMelodyDream: UID: 73086533 | ID: 200600 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  10:1:4
+************************************************************************************
+************************************************************************************
+you traded with ~Assasins
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: DragonBall: UID: 73082057 | ID: 1088000 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  12:10:52
+************************************************************************************
+************************************************************************************
+you traded with ~Assasins
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 600000
+Items received : Name: P9Anima: UID: 73086833 | ID: 4200009 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  12:55:9
+************************************************************************************
+************************************************************************************
+you traded with ~jiN|wOo
+Silver sent: 0
+Cps sent: 0
+Silver received: 900000
+Cps received: 70000
+Date = 2026-3-4  13:9:35
+************************************************************************************
+************************************************************************************
+you traded with ~Hamprey
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: FoxSpirit(Charm): UID: 73086902 | ID: 194405 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Lunar Deer (Glow): UID: 73086903 | ID: 200777 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BlossomRomance(Charm): UID: 73086885 | ID: 195405 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: WingedFrostcatArmor: UID: 73086887 | ID: 200220 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Lightning Leopard (Star): UID: 73086888 | ID: 200696 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: WarriorArmor: UID: 73086889 | ID: 188715 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: PowerofSixers(Signed): UID: 73086890 | ID: 195195 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Candy Cowboy: UID: 73086891 | ID: 194075 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SacredTaoistGarment: UID: 73086892 | ID: 194945 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SpringShirt: UID: 73086893 | ID: 192435 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SnowFox: UID: 73086894 | ID: 200486 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Cyan Mist: UID: 73086895 | ID: 199635 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: StarRoosterEndlessCourage: UID: 73086901 | ID: 200593 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  13:30:34
+************************************************************************************
+************************************************************************************
+you traded with ichigo~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Violet Phoenix (Herald): UID: 73086841 | ID: 200400 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Tea Party (Love): UID: 73086913 | ID: 200982 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Summer Pulse: UID: 73086704 | ID: 198755 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SnowLotus: UID: 73086678 | ID: 200574 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  14:3:28
+************************************************************************************
+************************************************************************************
+you traded with ichigo~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Summer Pulse: UID: 73086704 | ID: 198755 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  14:10:18
+************************************************************************************
+************************************************************************************
+you traded with ichigo~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Frozen Crest (Snow): UID: 73086968 | ID: 199165 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Blazing Tempo (Dreamer): UID: 73086969 | ID: 198165 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  14:12:17
+************************************************************************************
+************************************************************************************
+you traded with ~Assasins
+Silver sent: 0
+Cps sent: 45000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-4  15:4:50
+************************************************************************************
+************************************************************************************
+you traded with ~Assasin
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Brilliant Haze: UID: 73087152 | ID: 199295 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: EgyptianKingJersey(Champion): UID: 73087153 | ID: 195295 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: FantasyBall(Diamond): UID: 73087154 | ID: 196365 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Twilight Waltz (Grand): UID: 73087155 | ID: 198195 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  15:41:37
+************************************************************************************
+************************************************************************************
+you traded with ~Assasin
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: CrimsonRing: UID: 73086781 | ID: 150269 | Plus: 6 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem
+Items sent : Name: RelicsNecklace: UID: 73086782 | ID: 120219 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: EmptySocket | S2: EmptySocket
+Items sent : Name: MagicBoots: UID: 73086783 | ID: 160229 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: EmptySocket | S2: EmptySocket
+Items sent : Name: P8Anima: UID: 73087197 | ID: 4200008 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  15:56:57
+************************************************************************************
+************************************************************************************
+you traded with ~Assasin
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 400000
+Date = 2026-3-4  16:46:23
+************************************************************************************

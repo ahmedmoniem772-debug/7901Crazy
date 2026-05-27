@@ -1,0 +1,18 @@
+************************************************************************************
+you traded with DarkChaos
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 200000
+Items sent : Name: WesternMirror: UID: 73145923 | ID: 4100001 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-14  0:6:53
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: L1 Mythsoul Pack: UID: 73146437 | ID: 3325756 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-14  6:6:30
+************************************************************************************

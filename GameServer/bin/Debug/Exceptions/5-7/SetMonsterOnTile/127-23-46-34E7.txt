@@ -1,0 +1,8 @@
+----Exception message----
+Index was outside the bounds of the array.
+----End of exception message----
+
+----Stack trace----
+   at ElTurky.Role.GameMap.SetMonsterOnTile(UInt16 X, UInt16 Y, Boolean Value) in D:\سورسات\Source 7809\Role\GameMap.cs:line 763
+----End of stack trace----
+

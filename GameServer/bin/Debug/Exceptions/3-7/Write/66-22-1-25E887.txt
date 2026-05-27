@@ -1,0 +1,13 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at ElTurky.ServerSockets.Packet.Write(UInt32 value) in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 167
+   at ElTurky.ServerSockets.Packet.Write(Int32 value) in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 179
+   at ElTurky.Client.GameClient.SetGHInfo(Int64 nc) in C:\Users\Administrator\Desktop\Server\Source\Client\GameClient.cs:line 53
+   at ElTurky.Role.Player.SendUpdateHP() in C:\Users\Administrator\Desktop\Server\Source\Role\Player.cs:line 2997
+   at ElTurky.Role.Player.set_HitPoints(Int32 value) in C:\Users\Administrator\Desktop\Server\Source\Role\Player.cs:line 5081
+   at ElTurky.Client.PoolProcesses.BuffersCallback(GameClient client) in C:\Users\Administrator\Desktop\Server\Source\Threading\PoolProcesses.cs:line 6013
+----End of stack trace----
+

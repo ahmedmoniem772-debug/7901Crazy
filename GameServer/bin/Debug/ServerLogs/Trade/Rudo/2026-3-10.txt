@@ -1,0 +1,17 @@
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: P18Anima: UID: 73127067 | ID: 4200018 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-10  13:3:27
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 20000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-10  23:3:43
+************************************************************************************

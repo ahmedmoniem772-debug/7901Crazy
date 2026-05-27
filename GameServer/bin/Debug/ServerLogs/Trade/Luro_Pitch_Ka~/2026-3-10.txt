@@ -1,0 +1,18 @@
+************************************************************************************
+you traded with ~Str@|Ker
+Silver sent: 0
+Cps sent: 1450000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-10  10:12:39
+************************************************************************************
+************************************************************************************
+you traded with ~Str@|Ker
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Celestial Flame (Raging): UID: 73088247 | ID: 360321 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Celestial Flame (Raging): UID: 73127133 | ID: 360321 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-10  14:14:31
+************************************************************************************

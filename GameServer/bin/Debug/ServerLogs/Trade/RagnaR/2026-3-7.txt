@@ -1,0 +1,42 @@
+************************************************************************************
+you traded with Hermelyn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: 9LoveLetters: UID: 73111243 | ID: 756009 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: 9LoveLetters: UID: 73111244 | ID: 756009 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  13:31:30
+************************************************************************************
+************************************************************************************
+you traded with Traitor
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 10000000
+Date = 2026-3-7  17:55:18
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Date = 2026-3-7  20:46:14
+************************************************************************************
+************************************************************************************
+you traded with PinoyConquer[GM]
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 100000000
+Date = 2026-3-7  20:46:39
+************************************************************************************
+************************************************************************************
+you traded with Hermelyn
+Silver sent: 20000000
+Cps sent: 10000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-7  21:20:53
+************************************************************************************

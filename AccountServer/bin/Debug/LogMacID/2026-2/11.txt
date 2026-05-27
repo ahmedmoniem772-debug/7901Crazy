@@ -1,0 +1,14 @@
+UserName[Acc] |1| UIDAccount |28481233 | IPAccount | 102.46.39.203 |  PasswordAccount  [1] [The Clock] 0:40:14
+UserName[Acc] |1| UIDAccount |28481233 | IPAccount | 102.46.39.203 |  PasswordAccount  [1] [The Clock] 0:41:6
+UserName[Acc] |1| UIDAccount |28481233 | IPAccount | 102.46.39.203 |  PasswordAccount  [1] [The Clock] 0:43:51
+UserName[Acc] |1| UIDAccount |28481233 | IPAccount | 102.46.39.203 |  PasswordAccount  [1] [The Clock] 0:48:52
+UserName[Acc] |1| UIDAccount |28481233 | IPAccount | 102.46.39.203 |  PasswordAccount  [1] [The Clock] 0:51:54
+UserName[Acc] |1| UIDAccount |28481233 | IPAccount | 102.46.39.203 |  PasswordAccount  [1] [The Clock] 0:52:14
+UserName[Acc] |1| UIDAccount |28481233 | IPAccount | 102.46.39.203 |  PasswordAccount  [1] [The Clock] 0:56:41
+UserName[Acc] |1| UIDAccount |28481233 | IPAccount | 102.46.39.203 |  PasswordAccount  [1] [The Clock] 0:58:16
+UserName[Acc] |12| UIDAccount |28481244 | IPAccount | 41.42.164.227 |  PasswordAccount  [12] [The Clock] 0:58:57
+UserName[Acc] |1| UIDAccount |28481233 | IPAccount | 102.46.39.203 |  PasswordAccount  [1] [The Clock] 0:59:58
+UserName[Acc] |12| UIDAccount |28481244 | IPAccount | 41.42.164.227 |  PasswordAccount  [12] [The Clock] 1:0:18
+UserName[Acc] |12| UIDAccount |28481244 | IPAccount | 41.42.164.227 |  PasswordAccount  [12] [The Clock] 1:2:34
+UserName[Acc] |1| UIDAccount |28481233 | IPAccount | 102.46.39.203 |  PasswordAccount  [1] [The Clock] 1:13:3
+UserName[Acc] |1| UIDAccount |28481233 | IPAccount | 102.46.39.203 |  PasswordAccount  [1] [The Clock] 1:19:46

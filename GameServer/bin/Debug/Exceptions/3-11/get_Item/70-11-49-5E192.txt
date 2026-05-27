@@ -1,0 +1,14 @@
+----Exception message----
+The given key was not present in the dictionary.
+----End of exception message----
+
+----Stack trace----
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at ElTurky.Game.MsgServer.AttackHandler.ReceiveAttack.Npc.Execute(Packet stream, SpellObj obj, GameClient client, SobNpc attacked) in C:\Users\Administrator\Desktop\Server\Source\Attack ElTurky\ReceiveAttack\Npc.cs:line 321
+   at ElTurky.Game.MsgServer.AttackHandler.Bomb.Execute(GameClient user, InteractQuery Attack, Packet stream, Dictionary`2 DBSpells) in C:\Users\Administrator\Desktop\Server\Source\Attack ElTurky\HandleSkils\Bomb.cs:line 1027
+   at ElTurky.Game.MsgServer.MsgAttackPacket.ProcescMagic(GameClient user, Packet stream, InteractQuery Attack, Boolean ignoreStamp) in C:\Users\Administrator\Desktop\Server\Source\Game\MsgServer\MsgAttackPacket.cs:line 1434
+   at ElTurky.Game.MsgServer.AttackHandler.Updates.GetWeaponSpell.Check(InteractQuery Attack, Packet stream, GameClient client, IMapObj Target) in C:\Users\Administrator\Desktop\Server\Source\Attack ElTurky\Updates\GetWeaponSpell.cs:line 789
+   at ElTurky.Game.MsgServer.MsgAttackPacket.Process(GameClient user, InteractQuery Attack, Boolean CheckTargetType) in C:\Users\Administrator\Desktop\Server\Source\Game\MsgServer\MsgAttackPacket.cs:line 1109
+   at ElTurky.Client.PoolProcesses.AutoAttackCallback(GameClient client) in C:\Users\Administrator\Desktop\Server\Source\Threading\PoolProcesses.cs:line 5790
+----End of stack trace----
+

@@ -1,0 +1,2 @@
+UserName[Acc] |Traitor| UIDAccount |28481234 | IPAccount | 49.149.7.217 | MacID ||  AnimaP16  [False] 30 points[DonatePoint]  [] [The Clock] 13:51:59
+UserName[Acc] |Conquer[GM]| UIDAccount |28481241 | IPAccount | 49.149.7.217 | MacID ||  AnimaP16  [True] 30 points[DonatePoint]  [] [The Clock] 20:37:42

@@ -1,0 +1,95 @@
+************************************************************************************
+you traded with farmer1
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 6000000
+Date = 2026-3-5  0:18:34
+************************************************************************************
+************************************************************************************
+you traded with ~TITANUS
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Cirrus Blade: UID: 73086845 | ID: 608439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem
+Items received : Name: Cirrus Blade: UID: 73086846 | ID: 608439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem
+Items received : Name: Cirrus Hat: UID: 73086847 | ID: 171309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem
+Items received : Name: Cirrus Robe: UID: 73086848 | ID: 103309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem
+Date = 2026-3-5  1:12:9
+************************************************************************************
+************************************************************************************
+you traded with ~TITANUS
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Cirrus Blade: UID: 73086845 | ID: 608439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem
+Items sent : Name: Cirrus Blade: UID: 73086846 | ID: 608439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem
+Items sent : Name: Cirrus Hat: UID: 73086847 | ID: 171309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem
+Items sent : Name: Cirrus Robe: UID: 73086848 | ID: 103309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem
+Date = 2026-3-5  12:39:44
+************************************************************************************
+************************************************************************************
+you traded with Flamingfury
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: P9Anima: UID: 73094386 | ID: 4200009 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: DuckQuant: UID: 73084256 | ID: 360257 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: DuckQuant: UID: 73084257 | ID: 360257 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-5  21:20:11
+************************************************************************************
+************************************************************************************
+you traded with CoupeDGrace
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: SkyHammer: UID: 73094540 | ID: 800111 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SkyHammer: UID: 73094541 | ID: 800111 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-5  21:49:30
+************************************************************************************
+************************************************************************************
+you traded with Rudo
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: P6Anima: UID: 73094645 | ID: 4200006 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-5  22:17:35
+************************************************************************************
+************************************************************************************
+you traded with Rudo
+Silver sent: 100000000
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Date = 2026-3-5  22:24:26
+************************************************************************************
+************************************************************************************
+you traded with Rudo
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: ExemptionToken: UID: 73094666 | ID: 723701 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-5  22:33:36
+************************************************************************************
+************************************************************************************
+you traded with Rudo
+Silver sent: 0
+Cps sent: 100000
+Silver received: 11
+Cps received: 0
+Date = 2026-3-5  22:41:5
+************************************************************************************
+************************************************************************************
+you traded with RagnaR
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 1000000
+Date = 2026-3-5  23:25:46
+************************************************************************************

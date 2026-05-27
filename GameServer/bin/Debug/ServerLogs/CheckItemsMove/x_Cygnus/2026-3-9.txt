@@ -1,0 +1,50 @@
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FangCrossSaber: UID: 73082037 | ID: 614439 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 37 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  2:23:3
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FangCrossSaber: UID: 73082035 | ID: 614439 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 37 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  2:23:3
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FangCrossSaber: UID: 73082037 | ID: 614439 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 37 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  2:29:32
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FangCrossSaber: UID: 73082035 | ID: 614439 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 37 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  2:29:32
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: ArcaneScepter: UID: 73082036 | ID: 481439 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  2:29:47
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Starry Shock (Thunder): UID: 73104713 | ID: 360322 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-9  13:52:55
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Starry Shock (Thunder): UID: 73100670 | ID: 360322 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-9  13:53:2
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Fairytale Pilgrimage: UID: 73101101 | ID: 360318 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-9  14:10:59
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Blazing Sun (Dawn): UID: 73100204 | ID: 360441 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-9  14:11:14
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Fairytale Pilgrimage: UID: 73101604 | ID: 360318 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-9  14:11:25
+------------------------------------------------------------------------------------

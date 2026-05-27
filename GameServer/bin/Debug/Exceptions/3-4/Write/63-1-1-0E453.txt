@@ -1,0 +1,11 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at ElTurky.ServerSockets.Packet.Write(UInt32 value) in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 167
+   at ElTurky.ServerSockets.Packet.Write(Int32 value) in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 179
+   at ElTurky.Loader.NPC_NameColor.CreateGHPacket(GameClient client) in C:\Users\Administrator\Desktop\Server\Source\Loader\NPC_NameColor.cs:line 18
+   at ElTurky.Role.RoleView.Role(Boolean clear, Packet msg) in C:\Users\Administrator\Desktop\Server\Source\Role\RoleView.cs:line 607
+----End of stack trace----
+

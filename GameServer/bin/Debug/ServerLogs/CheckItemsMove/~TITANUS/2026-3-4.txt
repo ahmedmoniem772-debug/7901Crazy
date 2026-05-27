@@ -1,0 +1,60 @@
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Cirrus Robe: UID: 73086848 | ID: 103309 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 31 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  23:28:7
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Cirrus Blade: UID: 73086846 | ID: 608439 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 31 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  23:28:9
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Cirrus Blade: UID: 73086845 | ID: 608439 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 31 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  23:28:9
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Blizzard: UID: 73074383 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 30 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  23:28:11
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FloridNecklace: UID: 73074381 | ID: 120269 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 30 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  23:28:11
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: CrimsonRing: UID: 73074382 | ID: 150269 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 30 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  23:28:12
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Cirrus Hat: UID: 73086847 | ID: 171309 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 31 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  23:28:13
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: HeadbandOfTheBuddha: UID: 73089072 | ID: 143109 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  23:37:18
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Asura`sFrock: UID: 73089071 | ID: 136119 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  23:37:19
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: WillowPrayerBeads: UID: 73089549 | ID: 610003 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  23:49:24
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: LazuritePrayerBeads: UID: 73089073 | ID: 610439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 31 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-4  23:49:25
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: WillowPrayerBeads: UID: 73089550 | ID: 610003 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-4  23:49:30
+------------------------------------------------------------------------------------

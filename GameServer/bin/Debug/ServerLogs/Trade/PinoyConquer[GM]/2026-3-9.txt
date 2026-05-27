@@ -1,0 +1,27 @@
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 100000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-9  0:22:44
+************************************************************************************
+************************************************************************************
+you traded with Tsikulet
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: TenderFlameGarment: UID: 73124358 | ID: 188755 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: TenderFlameGarment: UID: 73124359 | ID: 188755 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-9  0:40:41
+************************************************************************************
+************************************************************************************
+you traded with Traitor
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: TenderFlameGarment: UID: 73124358 | ID: 188755 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-9  18:6:27
+************************************************************************************

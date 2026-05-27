@@ -1,0 +1,18 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at ElTurky.ServerSockets.Packet.Write(Byte value) in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 153
+   at ElTurky.ServerSockets.Packet.Write(String value, Int32 length) in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 186
+   at ElTurky.ServerSockets.Packet.WriteSeal() in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 355
+   at ElTurky.ServerSockets.Packet.Finalize(UInt16 type) in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 292
+   at ElTurky.Game.MsgServer.MsgUpdate.GetArray(Packet stream) in C:\Users\Administrator\Desktop\Server\Source\Systems ElTurky\MsgUpdateFlag\MsgUpdatePacket.cs:line 746
+   at ElTurky.Game.MsgServer.AttackHandler.ReceiveAttack.Monster.Execute(Packet stream, SpellObj obj, GameClient client, MonsterRole monster) in C:\Users\Administrator\Desktop\Server\Source\Attack ElTurky\ReceiveAttack\Monster.cs:line 376
+   at ElTurky.Game.MsgServer.AttackHandler.Bomb.Execute(GameClient user, InteractQuery Attack, Packet stream, Dictionary`2 DBSpells) in C:\Users\Administrator\Desktop\Server\Source\Attack ElTurky\HandleSkils\Bomb.cs:line 992
+   at ElTurky.Game.MsgServer.MsgAttackPacket.ProcescMagic(GameClient user, Packet stream, InteractQuery Attack, Boolean ignoreStamp) in C:\Users\Administrator\Desktop\Server\Source\Game\MsgServer\MsgAttackPacket.cs:line 1434
+   at ElTurky.Game.MsgServer.AttackHandler.Updates.GetWeaponSpell.Check(InteractQuery Attack, Packet stream, GameClient client, IMapObj Target) in C:\Users\Administrator\Desktop\Server\Source\Attack ElTurky\Updates\GetWeaponSpell.cs:line 497
+   at ElTurky.Game.MsgServer.MsgAttackPacket.Process(GameClient user, InteractQuery Attack, Boolean CheckTargetType) in C:\Users\Administrator\Desktop\Server\Source\Game\MsgServer\MsgAttackPacket.cs:line 1019
+   at ElTurky.Client.PoolProcesses.AutoAttackCallback(GameClient client) in C:\Users\Administrator\Desktop\Server\Source\Threading\PoolProcesses.cs:line 5790
+----End of stack trace----
+

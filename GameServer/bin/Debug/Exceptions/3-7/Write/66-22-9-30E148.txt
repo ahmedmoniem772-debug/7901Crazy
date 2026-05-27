@@ -1,0 +1,14 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at ElTurky.ServerSockets.Packet.Write(UInt32 value) in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 167
+   at ElTurky.ServerSockets.Packet.Write(Int32 value) in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 179
+   at ElTurky.MsgHandShake.Handshake(Packet msg, Byte[] p, Byte[] g, Byte[] publicKey) in C:\Users\Administrator\Desktop\Server\Source\Game\MsgServer\MsgHandShake.cs:line 14
+   at ElTurky.Cryptography.DHKeyExchange.ServerKeyExchange.CreateServerKeyPacket(DiffieHellman user_dh) in C:\Users\Administrator\Desktop\Server\Source\Cryptography\DHKeyExchange.cs:line 60
+   at ElTurky.Client.GameClient..ctor(SecuritySocket _socket, Boolean _OnInterServer) in C:\Users\Administrator\Desktop\Server\Source\Client\GameClient.cs:line 1261
+   at ElTurky.Program.<>c.<Main>b__18_0(SecuritySocket p) in C:\Users\Administrator\Desktop\Server\Source\Program.cs:line 298
+   at ElTurky.ServerSockets.ServerSocket.Accept() in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\ServerSocket.cs:line 120
+----End of stack trace----
+

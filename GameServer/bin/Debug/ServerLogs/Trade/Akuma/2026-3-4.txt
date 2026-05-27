@@ -1,0 +1,129 @@
+************************************************************************************
+you traded with QueenGoddess
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: SkyHammer: UID: 73083854 | ID: 800111 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: SkyHammer: UID: 73083855 | ID: 800111 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  3:40:45
+************************************************************************************
+************************************************************************************
+you traded with farmer
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 40000
+Date = 2026-3-4  4:56:21
+************************************************************************************
+************************************************************************************
+you traded with farmer1
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: ImperialTripodVessel: UID: 73084580 | ID: 4100002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  5:11:37
+************************************************************************************
+************************************************************************************
+you traded with farmer1
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: StunningRelicsBox: UID: 73084891 | ID: 3307146 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: ImperialTripodVessel: UID: 73084708 | ID: 4100002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: LifeFruitBasket: UID: 73084869 | ID: 723725 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: LifeFruitBasket: UID: 73084694 | ID: 723725 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: LegendSplendidStarPack: UID: 73084881 | ID: 3200743 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  5:23:34
+************************************************************************************
+************************************************************************************
+you traded with farmer1
+Silver sent: 0
+Cps sent: 0
+Silver received: 252000000
+Cps received: 0
+Date = 2026-3-4  5:36:34
+************************************************************************************
+************************************************************************************
+you traded with farmer1
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: HeartlessSeal: UID: 73085146 | ID: 4100004 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: BellofDoom: UID: 73084938 | ID: 4100005 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  5:37:48
+************************************************************************************
+************************************************************************************
+you traded with farmer1
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 100000
+Items received : Name: WesternMirror: UID: 73085190 | ID: 4100001 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  5:40:23
+************************************************************************************
+************************************************************************************
+you traded with farmer1
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: BeadsofCalmSea: UID: 73085243 | ID: 4100003 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: BeadsofCalmSea: UID: 73085276 | ID: 4100003 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: HeartlessSeal: UID: 73085254 | ID: 4100004 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: WesternMirror: UID: 73085255 | ID: 4100001 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  5:42:10
+************************************************************************************
+************************************************************************************
+you traded with farmer1
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: ImperialTripodVessel: UID: 73085431 | ID: 4100002 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: BeadsofCalmSea: UID: 73085432 | ID: 4100003 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-4  5:45:10
+************************************************************************************
+************************************************************************************
+you traded with farmer1
+Silver sent: 0
+Cps sent: 120000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-4  5:54:1
+************************************************************************************
+************************************************************************************
+you traded with farmer1
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 190000
+Date = 2026-3-4  6:2:32
+************************************************************************************
+************************************************************************************
+you traded with farmer1
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 150000
+Date = 2026-3-4  6:51:31
+************************************************************************************
+************************************************************************************
+you traded with farmer1
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 30000
+Date = 2026-3-4  7:7:15
+************************************************************************************
+************************************************************************************
+you traded with ~Zyi|Kes
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 11000
+Date = 2026-3-4  7:43:5
+************************************************************************************

@@ -1,0 +1,208 @@
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 340000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-10  0:52:20
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: L2 Ethereal [Headgear]: UID: 73126608 | ID: 40701082 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L2 Hawkeye (Ring): UID: 73126610 | ID: 40707022 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-10  0:56:31
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: L2 Demolition [Necklace]: UID: 73126613 | ID: 40702362 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L2 Bloodthirst [Ring]: UID: 73126614 | ID: 40707042 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L2 Meditation (Ring): UID: 73126615 | ID: 40707142 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L2 Meditation (2-Handed): UID: 73126616 | ID: 40705142 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L2 Edge (Shield): UID: 73126617 | ID: 40706032 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L2 Demolition [Shield]: UID: 73126618 | ID: 40706362 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L2 Edge (1-Handed): UID: 73126619 | ID: 40704032 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L2 Edge (Boots): UID: 73126620 | ID: 40708032 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L2 Meditation (Necklace): UID: 73126621 | ID: 40702142 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L2 Elan [Shield]: UID: 73126622 | ID: 40706172 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L2 Bloodthirst [Necklace]: UID: 73126609 | ID: 40702042 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L2 Venom [Ring]: UID: 73126611 | ID: 40707012 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L2 Meditation (Necklace): UID: 73126612 | ID: 40702142 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-10  0:57:53
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: L2 Venom [Headgear]: UID: 73126623 | ID: 40701012 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L2 Ethereal [Headgear]: UID: 73126624 | ID: 40701082 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L2 Meditation (Necklace): UID: 73126625 | ID: 40702142 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-10  0:59:41
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: L1 Elan [Boot]: UID: 73126626 | ID: 40708171 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L1 Demolition [2-handed Weapon]: UID: 73100350 | ID: 40705361 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-10  1:0:56
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: L4 Ethereal [2-handed]: UID: 73126702 | ID: 40705084 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-10  2:55:3
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 690000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-10  3:12:16
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: L1 Ethereal [Shield]: UID: 73126709 | ID: 40706081 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L1 Sweep (1-Handed): UID: 73126710 | ID: 40704061 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L1 Bloodthirst [1-handed]: UID: 73126711 | ID: 40704041 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L1 Edge (Boots): UID: 73126712 | ID: 40708031 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: L1 Meditation (Ring): UID: 73126713 | ID: 40707141 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-10  3:12:36
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 15000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-10  3:17:49
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 225114
+Silver received: 0
+Cps received: 0
+Items sent : Name: L2 Elan [Necklace]: UID: 73126714 | ID: 40702172 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-10  3:54:28
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 14175
+Date = 2026-3-10  15:57:39
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: L2 Demolition [1-handed Weapon]: UID: 73127137 | ID: 40704362 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-10  16:40:17
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 299204
+Silver received: 0
+Cps received: 0
+Date = 2026-3-10  16:54:12
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 75000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-10  17:18:50
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: SavageBone: UID: 73127138 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-10  17:22:51
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: SavageBone: UID: 73126217 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-10  17:42:19
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 230000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-10  17:58:55
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: L2 Hawkeye (Shield): UID: 73127172 | ID: 40706022 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-10  17:59:30
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 280000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-10  19:1:50
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: L2 Solid [Armor]: UID: 73127269 | ID: 40703182 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-10  19:11:41
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 265000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-10  20:27:56
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 0
+Cps sent: 105000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-10  20:41:47
+************************************************************************************

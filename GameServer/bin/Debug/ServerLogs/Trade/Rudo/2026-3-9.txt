@@ -1,0 +1,116 @@
+************************************************************************************
+you traded with Akuma
+Silver sent: 111
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Brilliant Haze: UID: 73124319 | ID: 199295 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: BrazilianHeroJersey(Champion): UID: 73123053 | ID: 195315 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Floral Grandeur (Aroma): UID: 73121013 | ID: 192035 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: AnniversarySuit(Female): UID: 73111062 | ID: 187575 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: PrideofTriumph: UID: 73121046 | ID: 193205 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: PowerofSixers(Signed): UID: 73121015 | ID: 195195 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Pistil Sprite: UID: 73111066 | ID: 196665 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: DreamFate(Classic): UID: 73111068 | ID: 192145 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Nether Leopard (Star): UID: 73121052 | ID: 200698 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Stellar Ballad (Wisdom): UID: 73112404 | ID: 193395 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Summer Pulse: UID: 73121023 | ID: 198755 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: AspirationJacket: UID: 73124310 | ID: 193325 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Proud Dragon: UID: 73111321 | ID: 193965 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Dewy Beauty (Jade): UID: 73124312 | ID: 199665 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Azure Melody (Rhythm): UID: 73121894 | ID: 197005 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Limpid Milky Dream: UID: 73122578 | ID: 197035 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: PrideofSuccess: UID: 73111699 | ID: 192465 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-9  9:50:0
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Lunar Deer (Glow): UID: 73117277 | ID: 200777 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-9  9:50:23
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: StarRoosterEndlessExplorer: UID: 73112199 | ID: 200590 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Starry Shock (Thunder): UID: 73085606 | ID: 360322 | Plus: 0 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: LunarFox(Illusion): UID: 73121042 | ID: 200640 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: FieryBeast: UID: 73123058 | ID: 200579 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: CelestialFox: UID: 73123059 | ID: 200595 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: StarRoosterEndlessDream: UID: 73121014 | ID: 200589 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: LoveHorse: UID: 73121024 | ID: 200495 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: AstralPhoenix: UID: 73122575 | ID: 200575 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Starry Shock (Thunder): UID: 73084354 | ID: 360322 | Plus: 0 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-9  9:52:2
+************************************************************************************
+************************************************************************************
+you traded with Knuckles
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 300000
+Date = 2026-3-9  12:54:59
+************************************************************************************
+************************************************************************************
+you traded with Knuckles
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: P11Anima: UID: 73125002 | ID: 4200011 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-9  12:57:45
+************************************************************************************
+************************************************************************************
+you traded with Knuckles
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 100000
+Date = 2026-3-9  13:31:55
+************************************************************************************
+************************************************************************************
+you traded with Dreizynn
+Silver sent: 11111
+Cps sent: 0
+Silver received: 0
+Cps received: 100000
+Date = 2026-3-9  13:35:13
+************************************************************************************
+************************************************************************************
+you traded with Knuckles
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 40000
+Date = 2026-3-9  13:39:21
+************************************************************************************
+************************************************************************************
+you traded with Knuckles
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 100000
+Date = 2026-3-9  15:45:3
+************************************************************************************
+************************************************************************************
+you traded with Knuckles
+Silver sent: 111
+Cps sent: 0
+Silver received: 0
+Cps received: 70000
+Date = 2026-3-9  21:38:36
+************************************************************************************
+************************************************************************************
+you traded with Knuckles
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 30000
+Date = 2026-3-9  21:49:19
+************************************************************************************

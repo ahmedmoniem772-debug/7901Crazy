@@ -1,0 +1,200 @@
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 15000
+Date = 2026-3-7  3:51:30
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Date = 2026-3-7  3:54:50
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 105000
+Date = 2026-3-7  4:11:1
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 20000
+Date = 2026-3-7  4:17:25
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 190000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-7  10:59:42
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 380000
+Date = 2026-3-7  11:0:0
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 30000
+Items received : Name: SavageBone: UID: 73109226 | ID: 3004181 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  11:6:49
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 400000
+Date = 2026-3-7  11:49:54
+************************************************************************************
+************************************************************************************
+you traded with x|Cygnus
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Breakthrough(Sacred)Material: UID: 73110909 | ID: 3004141 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  12:2:24
+************************************************************************************
+************************************************************************************
+you traded with Rudo
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Solar Steel (1-handed): UID: 73110586 | ID: 360409 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Solar Steel (1-handed): UID: 73110391 | ID: 360409 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: MiraculousGourd: UID: 73111291 | ID: 2100025 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  14:28:31
+************************************************************************************
+************************************************************************************
+you traded with Knuckles
+Silver sent: 100000000
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Sakura Love (Guard): UID: 73111300 | ID: 360287 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SacredNinjaGarment: UID: 73111905 | ID: 194905 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Bloom Steed (Cherry): UID: 73111907 | ID: 200567 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Candy Concerto: UID: 73110275 | ID: 360458 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  15:41:44
+************************************************************************************
+************************************************************************************
+you traded with Knuckles
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: P9Anima: UID: 73111690 | ID: 4200009 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SpringShirt: UID: 73112001 | ID: 192525 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Nether Leopard: UID: 73112003 | ID: 200702 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SugarcoatedHaws: UID: 73111694 | ID: 360170 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  15:58:29
+************************************************************************************
+************************************************************************************
+you traded with Knuckles
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: RadiantHusky: UID: 73111237 | ID: 200622 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: LunarFox(Illusion): UID: 73111950 | ID: 200640 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BlessedStar(Splendor): UID: 73110589 | ID: 195075 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Eternal Ode (Praise): UID: 73111059 | ID: 200430 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: LoveHorse: UID: 73111308 | ID: 200495 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Astral Eye (Golden): UID: 73111031 | ID: 199495 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SnowFox: UID: 73111962 | ID: 200480 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Bloom Steed (Cherry): UID: 73111319 | ID: 200567 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Milky Dream (Glimmer): UID: 73111320 | ID: 197065 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: SnowFox: UID: 73111664 | ID: 200480 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Azure Melody (Rhythm): UID: 73111323 | ID: 197005 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Breakthrough(Sacred)Material: UID: 73100288 | ID: 3004163 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: FieryBeast: UID: 73111698 | ID: 200579 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  16:0:18
+************************************************************************************
+************************************************************************************
+you traded with Knuckles
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: BuddaBeads: UID: 73112059 | ID: 800725 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BuddaBeads: UID: 73112060 | ID: 800725 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: MoonHeadgear: UID: 73112061 | ID: 820073 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: NetherArmor: UID: 73112062 | ID: 822071 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: HeavenNecklace: UID: 73112063 | ID: 821033 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: DragonRing: UID: 73112064 | ID: 823059 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  16:3:19
+************************************************************************************
+************************************************************************************
+you traded with Cranberry
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 1000000
+Date = 2026-3-7  16:52:33
+************************************************************************************
+************************************************************************************
+you traded with ISeeDeadPeople
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: ExemptionToken: UID: 73113723 | ID: 723701 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  19:19:46
+************************************************************************************
+************************************************************************************
+you traded with FR1SKA
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: ExemptionToken: UID: 73113816 | ID: 723701 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  19:32:39
+************************************************************************************
+************************************************************************************
+you traded with ISeeDeadPeople
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Steed: UID: 73113827 | ID: 300000 | Plus: 8 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  19:36:28
+************************************************************************************
+************************************************************************************
+you traded with ISeeDeadPeople
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: HeavenNecklace: UID: 73113956 | ID: 821033 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: MoonHeadgear: UID: 73113957 | ID: 820073 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: NetherArmor: UID: 73113958 | ID: 822071 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BuddaBeads: UID: 73113959 | ID: 800725 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: BuddaBeads: UID: 73113960 | ID: 800725 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-7  19:55:26
+************************************************************************************
+************************************************************************************
+you traded with Rudo
+Silver sent: 0
+Cps sent: 250000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-7  22:1:9
+************************************************************************************

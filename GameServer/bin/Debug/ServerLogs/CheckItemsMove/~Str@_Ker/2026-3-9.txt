@@ -1,0 +1,115 @@
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: ButcherKnife(1-Handed): UID: 73122538 | ID: 360044 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-9  21:34:1
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Blazing Sun (Dawn): UID: 73126126 | ID: 350209 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-9  21:34:3
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: VigorousHeavyRing: UID: 73074281 | ID: 151269 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:8:30
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FloridNecklace: UID: 73086782 | ID: 120269 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:8:32
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Blizzard: UID: 73086783 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:8:32
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: AlmightyEmperor`sPillar: UID: 73100089 | ID: 622439 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:8:36
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: AlmightyEmperor`sPillar: UID: 73100090 | ID: 622439 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 47 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:8:36
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: WhiteLotusFrock: UID: 73089071 | ID: 136309 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:8:38
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: XumiCap: UID: 73089072 | ID: 143309 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:8:39
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FloridNecklace: UID: 73086782 | ID: 120269 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:24:14
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: VigorousHeavyRing: UID: 73074281 | ID: 151269 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:24:15
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Blizzard: UID: 73086783 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:24:15
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Nobunaga`sSwiftClaw: UID: 73126358 | ID: 616439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:24:19
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Nobunaga`sSwiftClaw: UID: 73126357 | ID: 616439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 47 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:24:19
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: RambleVeil: UID: 73126230 | ID: 112309 | Plus: 12 | Bless: 0 | Anima: 0 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:24:20
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: NightmareVest: UID: 73126231 | ID: 135309 | Plus: 12 | Bless: 0 | Anima: 0 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:24:21
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: RambleVeil: UID: 73126230 | ID: 112309 | Plus: 12 | Bless: 0 | Anima: 0 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:27:23
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Nobunaga`sSwiftClaw: UID: 73126358 | ID: 616439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:27:24
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Nobunaga`sSwiftClaw: UID: 73126357 | ID: 616439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 47 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:27:24
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: NightmareVest: UID: 73126231 | ID: 135309 | Plus: 12 | Bless: 0 | Anima: 0 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:27:26
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: VigorousHeavyRing: UID: 73074281 | ID: 151269 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:27:27
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FloridNecklace: UID: 73086782 | ID: 120269 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:27:27
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Blizzard: UID: 73086783 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-3-9  23:27:30
+------------------------------------------------------------------------------------

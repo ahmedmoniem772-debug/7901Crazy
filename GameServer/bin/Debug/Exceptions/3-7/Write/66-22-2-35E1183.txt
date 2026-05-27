@@ -1,0 +1,12 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at ElTurky.ServerSockets.Packet.Write(Byte value) in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 153
+   at ElTurky.Game.MsgServer.MsgBuilder.JiangHuInfoCreate(Packet stream, JiangMode Mode, String[] items) in C:\Users\Administrator\Desktop\Server\Source\Systems ElTurky\Jiang\MsgJiangHuInfo.cs:line 14
+   at ElTurky.Role.Instance.JiangHu.SendInfo(GameClient client, JiangMode Action, Boolean Screen, String[] data) in C:\Users\Administrator\Desktop\Server\Source\Role\Instance\JiangHu.cs:line 634
+   at ElTurky.Game.MsgServer.MsgJiangHuInfo.Process(GameClient user, Packet stream) in C:\Users\Administrator\Desktop\Server\Source\Systems ElTurky\Jiang\MsgJiangHuInfo.cs:line 124
+   at ElTurky.Program.Game_Receive(SecuritySocket obj, Packet stream) in C:\Users\Administrator\Desktop\Server\Source\Program.cs:line 1562
+----End of stack trace----
+

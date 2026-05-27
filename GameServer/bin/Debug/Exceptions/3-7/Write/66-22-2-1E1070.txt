@@ -1,0 +1,18 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at ElTurky.ServerSockets.Packet.Write(Byte value) in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 153
+   at ElTurky.Game.MsgServer.MsgMailNotify.Loading(GameClient client) in C:\Users\Administrator\Desktop\Server\Source\Systems ElTurky\MailBox\MsgMailNotify.cs:line 14
+   at ElTurky.Game.MsgServer.PrizeInfo..ctor(GameClient client, String _title, String _Sender_name, String _content, UInt32 _Expiration_Date, UInt64 _Money, UInt32 _EMoney, UInt32 _itemid, UInt32 _Flag, UInt32 _Emoney_Record_Type) in C:\Users\Administrator\Desktop\Server\Source\Systems ElTurky\MailBox\PrizeInfo.cs:line 56
+   at ElTurky.Game.MsgMonster.MonsterRole.GetBossReward(GameClient killer, Packet stream) in C:\Users\Administrator\Desktop\Server\Source\Game\Monster\MonsterRole.cs:line 320
+   at ElTurky.Game.MsgMonster.MonsterRole.Dead(Packet stream, GameClient killer, UInt32 aUID, GameMap GameMap) in C:\Users\Administrator\Desktop\Server\Source\Game\Monster\MonsterRole.cs:line 1056
+   at ElTurky.Game.MsgServer.AttackHandler.ReceiveAttack.Monster.Execute(Packet stream, SpellObj obj, GameClient client, MonsterRole monster) in C:\Users\Administrator\Desktop\Server\Source\Attack ElTurky\ReceiveAttack\Monster.cs:line 362
+   at ElTurky.Game.MsgServer.AttackHandler.Attack.Execute(GameClient user, InteractQuery Attack, Packet stream, Dictionary`2 DBSpells) in C:\Users\Administrator\Desktop\Server\Source\Attack ElTurky\HandleSkils\Attack.cs:line 789
+   at ElTurky.Game.MsgServer.MsgAttackPacket.ProcescMagic(GameClient user, Packet stream, InteractQuery Attack, Boolean ignoreStamp) in C:\Users\Administrator\Desktop\Server\Source\Game\MsgServer\MsgAttackPacket.cs:line 1426
+   at ElTurky.Game.MsgServer.MsgAttackPacket.Process(GameClient user, InteractQuery Attack, Boolean CheckTargetType) in C:\Users\Administrator\Desktop\Server\Source\Game\MsgServer\MsgAttackPacket.cs:line 1160
+   at ElTurky.Game.MsgServer.MsgAttackPacket.HandlerProcess(GameClient user, Packet stream) in C:\Users\Administrator\Desktop\Server\Source\Game\MsgServer\MsgAttackPacket.cs:line 296
+   at ElTurky.Program.Game_Receive(SecuritySocket obj, Packet stream) in C:\Users\Administrator\Desktop\Server\Source\Program.cs:line 1562
+----End of stack trace----
+

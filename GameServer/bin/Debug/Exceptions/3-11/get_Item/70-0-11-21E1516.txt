@@ -1,0 +1,10 @@
+----Exception message----
+The given key was not present in the dictionary.
+----End of exception message----
+
+----Stack trace----
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at ElTurky.Game.MsgServer.AttackHandler.ReceiveAttack.Npc.Execute(Packet stream, SpellObj obj, GameClient client, SobNpc attacked) in C:\Users\Administrator\Desktop\Server\Source\Attack ElTurky\ReceiveAttack\Npc.cs:line 321
+   at ElTurky.Client.PoolProcesses.FloorCallback(GameClient client) in C:\Users\Administrator\Desktop\Server\Source\Threading\PoolProcesses.cs:line 2100
+----End of stack trace----
+

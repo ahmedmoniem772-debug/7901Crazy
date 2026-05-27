@@ -1,0 +1,39 @@
+************************************************************************************
+you traded with ~Str@|Ker
+Silver sent: 0
+Cps sent: 600000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-11  8:33:8
+************************************************************************************
+************************************************************************************
+you traded with ~Granger
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: SoulChariot: UID: 73133826 | ID: 200606 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-11  18:46:43
+************************************************************************************
+************************************************************************************
+you traded with ~Granger
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Starlight Oracle: UID: 73133907 | ID: 3347152 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Brilliance Oracle: UID: 73134002 | ID: 3347156 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Light Oracle: UID: 73134003 | ID: 3347155 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Moonshade Oracle: UID: 73133950 | ID: 3347153 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Dawn Oracle: UID: 73133921 | ID: 3347154 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Victorious Buddha: UID: 73133897 | ID: 10060110 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-11  19:37:45
+************************************************************************************
+************************************************************************************
+you traded with ~Granger
+Silver sent: 0
+Cps sent: 300000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-11  21:29:24
+************************************************************************************

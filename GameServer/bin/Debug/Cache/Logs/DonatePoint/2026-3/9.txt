@@ -1,0 +1,6 @@
+UserName[Acc] |Tsikulet| UIDAccount |28481239 | IPAccount | 49.149.166.26 | MacID ||  chilevel 99   [True] 100 points[DonatePoint]  [] [The Clock] 0:4:13
+UserName[Acc] |Traitor| UIDAccount |28481234 | IPAccount | 49.149.166.26 | MacID ||  MysteryFruit  [True] 3 points[DonatePoint]  [] [The Clock] 0:15:5
+UserName[Acc] |Traitor| UIDAccount |28481234 | IPAccount | 49.149.166.26 | MacID ||  AnimaP16  [False] 30 points[DonatePoint]  [] [The Clock] 0:48:14
+UserName[Acc] |Conquer[GM]| UIDAccount |28481241 | IPAccount | 156.198.94.150 | MacID ||  FullRelic  [True] 150 points[DonatePoint]  [] [The Clock] 2:25:23
+UserName[Acc] |Conquer[GM]| UIDAccount |28481241 | IPAccount | 156.198.94.150 | MacID ||  FullRelic  [True] 150 points[DonatePoint]  [] [The Clock] 2:25:26
+UserName[Acc] |Conquer[GM]| UIDAccount |28481241 | IPAccount | 156.198.94.150 | MacID ||  FullRelic  [True] 150 points[DonatePoint]  [] [The Clock] 2:26:41

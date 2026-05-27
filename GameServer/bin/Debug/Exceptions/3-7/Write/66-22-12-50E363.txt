@@ -1,0 +1,12 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at ElTurky.ServerSockets.Packet.Write(UInt32 value) in C:\Users\Administrator\Desktop\Server\Source\ServerSockets\Packet.cs:line 167
+   at ElTurky.Game.MsgServer.MsgBuilder.GuildInformationCreate(Packet stream, MsgGuildInformation info, Int32 MembersCount) in C:\Users\Administrator\Desktop\Server\Source\Systems ElTurky\MsgNewGuild\MsgGuildInformation.cs:line 17
+   at ElTurky.Role.Instance.Guild.SendThat(Player player) in C:\Users\Administrator\Desktop\Server\Source\Systems ElTurky\MsgNewGuild\Guild.cs:line 767
+   at ElTurky.Game.MsgServer.MsgGuildProces.Process(GameClient user, Packet stream) in C:\Users\Administrator\Desktop\Server\Source\Systems ElTurky\MsgNewGuild\MsgGuildProces.cs:line 256
+   at ElTurky.Program.Game_Receive(SecuritySocket obj, Packet stream) in C:\Users\Administrator\Desktop\Server\Source\Program.cs:line 1562
+----End of stack trace----
+

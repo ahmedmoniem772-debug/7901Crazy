@@ -1,0 +1,42 @@
+************************************************************************************
+you traded with CoupeDGrace
+Silver sent: 0
+Cps sent: 135000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-6  21:45:47
+************************************************************************************
+************************************************************************************
+you traded with Hermelyn
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 50000
+Date = 2026-3-6  22:19:13
+************************************************************************************
+************************************************************************************
+you traded with CoupeDGrace
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: HeavenNecklace: UID: 73107166 | ID: 821033 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  22:28:45
+************************************************************************************
+************************************************************************************
+you traded with CoupeDGrace
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Breakthrough(Sacred)Material: UID: 73107170 | ID: 3004141 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  22:33:47
+************************************************************************************
+************************************************************************************
+you traded with CoupeDGrace
+Silver sent: 0
+Cps sent: 150000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-6  22:39:13
+************************************************************************************

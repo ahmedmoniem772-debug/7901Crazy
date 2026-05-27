@@ -1,0 +1,43 @@
+************************************************************************************
+you traded with Rudo
+Silver sent: 0
+Cps sent: 4500000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-8  1:13:24
+************************************************************************************
+************************************************************************************
+you traded with Rudo
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: P13Anima: UID: 73121266 | ID: 4200013 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  1:23:50
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: HeartlessSeal: UID: 73065960 | ID: 4100004 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  3:6:16
+************************************************************************************
+************************************************************************************
+you traded with Akuma
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: HeartlessSeal: UID: 73065960 | ID: 4100004 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-8  3:7:12
+************************************************************************************
+************************************************************************************
+you traded with Traitor
+Silver sent: 0
+Cps sent: 100000000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-8  23:3:9
+************************************************************************************

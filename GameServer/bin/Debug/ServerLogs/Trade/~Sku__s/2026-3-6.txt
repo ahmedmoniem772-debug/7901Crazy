@@ -1,0 +1,24 @@
+************************************************************************************
+you traded with ~TITANUS
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Breakthrough(Sacred)Material: UID: 73098756 | ID: 3004163 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Intensification(Sacred)Material: UID: 73098757 | ID: 3004140 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Breakthrough(Sacred)Material: UID: 73098758 | ID: 3004141 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Breakthrough(Sacred)Material: UID: 73098759 | ID: 3004141 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Immunity(Sacred)Material: UID: 73098760 | ID: 3004139 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  1:5:39
+************************************************************************************
+************************************************************************************
+you traded with ~TITANUS
+Silver sent: 0
+Cps sent: 520000
+Silver received: 0
+Cps received: 0
+Items sent : Name: P8Anima: UID: 73095685 | ID: 4200008 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: P7Anima: UID: 73095812 | ID: 4200007 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: P7Anima: UID: 73098763 | ID: 4200007 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-6  1:21:7
+************************************************************************************

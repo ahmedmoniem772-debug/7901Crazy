@@ -1,0 +1,95 @@
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: WoodBracelet: UID: 73081762 | ID: 152005 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-3  23:35:28
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Coat: UID: 73081764 | ID: 132009 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-3  23:35:28
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: LuckyBacksword: UID: 73081763 | ID: 421301 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-3  23:35:29
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FierceImmortal: UID: 73081858 | ID: 619439 | Plus: 12 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-3  23:35:30
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: ImperialBacksword: UID: 73081864 | ID: 620439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-3  23:35:30
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: SupremeSword: UID: 73081857 | ID: 421439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-3  23:35:36
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FierceImmortal: UID: 73081858 | ID: 619439 | Plus: 12 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-3  23:35:43
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: ImperialBacksword: UID: 73081864 | ID: 620439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-3  23:35:43
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: SupremeSword: UID: 73081857 | ID: 421439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-3  23:35:45
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FierceImmortal: UID: 73081858 | ID: 619439 | Plus: 12 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-3  23:35:47
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: ImperialBacksword: UID: 73081864 | ID: 620439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-3  23:35:47
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: FierceImmortal: UID: 73081858 | ID: 619439 | Plus: 12 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-3  23:46:1
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Blizzard: UID: 73081859 | ID: 160249 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-3  23:46:2
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: NiftyBag: UID: 73081863 | ID: 121269 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-3  23:46:2
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: WyvernBracelet: UID: 73081862 | ID: 152279 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-3  23:46:3
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: DistinctCap: UID: 73081861 | ID: 114309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-3  23:46:4
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: SupremeSword: UID: 73081857 | ID: 421439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-3  23:46:5
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: EternalRobe: UID: 73081860 | ID: 134309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperTortoiseGem | S2: SuperTortoiseGem 
+Date = 2026-3-3  23:46:8
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsMove a 
+ Name: Steed: UID: 73081869 | ID: 300000 | Plus: 12 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-3-3  23:46:9
+------------------------------------------------------------------------------------

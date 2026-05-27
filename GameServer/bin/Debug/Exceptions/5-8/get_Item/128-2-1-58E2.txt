@@ -1,0 +1,11 @@
+----Exception message----
+The given key was not present in the dictionary.
+----End of exception message----
+
+----Stack trace----
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at ElTurky.Database.AtributesStatus.GetStatus(Player player, Boolean Atreborn) in D:\سورسات\Source 7809\Database\AtributesStatus.cs:line 148
+   at ElTurky.Game.MsgServer.MsgNewRole.CreateCharacter(GameClient client, Packet stream) in D:\سورسات\Source 7809\Game\MsgServer\MsgNewRole.cs:line 139
+   at ElTurky.Program.Game_Receive(SecuritySocket obj, Packet stream) in D:\سورسات\Source 7809\Program.cs:line 1625
+----End of stack trace----
+

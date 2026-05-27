@@ -1,0 +1,15 @@
+----Exception message----
+Could not find a part of the path 'D:\سورسات\Source 7809\bin\Debug\DB7809\CoatColorRule'.
+----End of exception message----
+
+----Stack trace----
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetFiles()
+   at ElTurky.Program.CopyAll(DirectoryInfo source, DirectoryInfo target) in D:\سورسات\Source 7809\Program.cs:line 1646
+   at ElTurky.Program.Copy(String sourceDirectory, String targetDirectory) in D:\سورسات\Source 7809\Program.cs:line 1641
+   at ElTurky.ThreadPoll.ServerFunctions() in D:\سورسات\Source 7809\Thread.cs:line 183
+----End of stack trace----
+

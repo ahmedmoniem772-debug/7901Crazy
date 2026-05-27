@@ -1,0 +1,270 @@
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\bin\Debug\ElTurky.exe.config
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\bin\Debug\ElTurky.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\bin\Debug\ElTurky.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\bin\Debug\ElTurky.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\bin\Debug\ElTurky.pdb
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\bin\Debug\en\ElTurky.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Mahmoud.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.SpawnMonster.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\Be.Windows.Forms.HexBox.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Systems_ElTurky.ChangeSystem.SystemBanned.HexBox.strings.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Chi.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Controlpanel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.JiangHu.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Packets.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Panel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Systems.ChangeSystem.SystemBanned.Panels.PanelCharge.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Panels.NightMareFo.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\en\ElTurky.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.TrustInfo.xml
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.csproj.Up2Date
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7887 19-1\obj\Debug\ElTurky.pdb
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\bin\Debug\ElTurky.exe.config
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\bin\Debug\ElTurky.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\bin\Debug\ElTurky.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\bin\Debug\ElTurky.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\bin\Debug\ElTurky.pdb
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\bin\Debug\en\ElTurky.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.Mahmoud.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.SpawnMonster.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\Be.Windows.Forms.HexBox.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.Systems_ElTurky.ChangeSystem.SystemBanned.HexBox.strings.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.Chi.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.Controlpanel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.JiangHu.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.Packets.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.Panel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.Systems.ChangeSystem.SystemBanned.Panels.PanelCharge.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.Panels.NightMareFo.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\en\ElTurky.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.TrustInfo.xml
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.csproj.Up2Date
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7889 25-1\obj\Debug\ElTurky.pdb
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.Mahmoud.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.SpawnMonster.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\Be.Windows.Forms.HexBox.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.Systems_ElTurky.ChangeSystem.SystemBanned.HexBox.strings.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.Chi.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.Controlpanel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.JiangHu.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.Packets.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.Panel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.Systems.ChangeSystem.SystemBanned.Panels.PanelCharge.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.Panels.NightMareFo.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\bin\Debug\ElTurky.exe.config
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\bin\Debug\ElTurky.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\bin\Debug\ElTurky.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\bin\Debug\ElTurky.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\bin\Debug\ElTurky.pdb
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\bin\Debug\en\ElTurky.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\en\ElTurky.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.TrustInfo.xml
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.csproj.Up2Date
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7891 31-1\obj\Debug\ElTurky.pdb
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\bin\Debug\ElTurky.exe.config
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\bin\Debug\ElTurky.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\bin\Debug\ElTurky.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\bin\Debug\ElTurky.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\bin\Debug\ElTurky.pdb
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\bin\Debug\en\ElTurky.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.Mahmoud.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.SpawnMonster.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\Be.Windows.Forms.HexBox.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.Systems_ElTurky.ChangeSystem.SystemBanned.HexBox.strings.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.Chi.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.Controlpanel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.JiangHu.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.Packets.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.Panel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.Systems.ChangeSystem.SystemBanned.Panels.PanelCharge.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.Panels.NightMareFo.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\en\ElTurky.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.TrustInfo.xml
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.csproj.Up2Date
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7893 10-2\obj\Debug\ElTurky.pdb
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.pdb
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\bin\Debug\ElTurky.exe.config
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\bin\Debug\ElTurky.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\bin\Debug\ElTurky.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\bin\Debug\ElTurky.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\bin\Debug\ElTurky.pdb
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\bin\Debug\en\ElTurky.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.Mahmoud.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.SpawnMonster.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\Be.Windows.Forms.HexBox.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.Systems_ElTurky.ChangeSystem.SystemBanned.HexBox.strings.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.Chi.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.Controlpanel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.JiangHu.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.Packets.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.Panel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.Systems.ChangeSystem.SystemBanned.Panels.PanelCharge.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.Panels.NightMareFo.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\en\ElTurky.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.TrustInfo.xml
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 14-2\obj\Debug\ElTurky.csproj.Up2Date
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\bin\Debug\ElTurky.exe.config
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\bin\Debug\ElTurky.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\bin\Debug\ElTurky.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\bin\Debug\ElTurky.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\bin\Debug\ElTurky.pdb
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\bin\Debug\en\ElTurky.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.Mahmoud.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.SpawnMonster.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\Be.Windows.Forms.HexBox.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.Systems_ElTurky.ChangeSystem.SystemBanned.HexBox.strings.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.Chi.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.Controlpanel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.JiangHu.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.Packets.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.Panel.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.Systems.ChangeSystem.SystemBanned.Panels.PanelCharge.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.Panels.NightMareFo.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\en\ElTurky.resources.dll
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.TrustInfo.xml
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.exe.manifest
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.application
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.csproj.Up2Date
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.exe
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.pdb
+C:\Users\Administrator\Desktop\Source New 7871\New 7871\Suorce 7895 23-2\Suorce 7895 14-2\obj\Debug\ElTurky.exe.config
+C:\Users\Administrator\Desktop\Server\Source\bin\Debug\ElTurky.exe.config
+C:\Users\Administrator\Desktop\Server\Source\bin\Debug\ElTurky.exe.manifest
+C:\Users\Administrator\Desktop\Server\Source\bin\Debug\ElTurky.application
+C:\Users\Administrator\Desktop\Server\Source\bin\Debug\ElTurky.exe
+C:\Users\Administrator\Desktop\Server\Source\bin\Debug\ElTurky.pdb
+C:\Users\Administrator\Desktop\Server\Source\bin\Debug\en\ElTurky.resources.dll
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.Mahmoud.resources
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.SpawnMonster.resources
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\Be.Windows.Forms.HexBox.resources
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.Systems_ElTurky.ChangeSystem.SystemBanned.HexBox.strings.resources
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.Panels.AccountsForm.resources
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.Panels.ChatPanal.resources
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.Chi.resources
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.Controlpanel.resources
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.JiangHu.resources
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.Packets.resources
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.Panel.resources
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.Systems.ChangeSystem.SystemBanned.Panels.PanelCharge.resources
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.Panels.NightMareFo.resources
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.Panels.ChatPanal.en.resources
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\en\ElTurky.resources.dll
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.TrustInfo.xml
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.exe.manifest
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.application
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.exe
+C:\Users\Administrator\Desktop\Server\Source\obj\Debug\ElTurky.pdb
+D:\سورسات\Source 7809\bin\Debug\ElTurky.exe.config
+D:\سورسات\Source 7809\bin\Debug\ElTurky.exe.manifest
+D:\سورسات\Source 7809\bin\Debug\ElTurky.application
+D:\سورسات\Source 7809\bin\Debug\ElTurky.exe
+D:\سورسات\Source 7809\bin\Debug\ElTurky.pdb
+D:\سورسات\Source 7809\bin\Debug\en\ElTurky.resources.dll
+D:\سورسات\Source 7809\obj\Debug\ElTurky.csproj.AssemblyReference.cache
+D:\سورسات\Source 7809\obj\Debug\ElTurky.Mahmoud.resources
+D:\سورسات\Source 7809\obj\Debug\ElTurky.SpawnMonster.resources
+D:\سورسات\Source 7809\obj\Debug\Be.Windows.Forms.HexBox.resources
+D:\سورسات\Source 7809\obj\Debug\ElTurky.Systems_ElTurky.ChangeSystem.SystemBanned.HexBox.strings.resources
+D:\سورسات\Source 7809\obj\Debug\ElTurky.Panels.AccountsForm.resources
+D:\سورسات\Source 7809\obj\Debug\ElTurky.Panels.ChatPanal.resources
+D:\سورسات\Source 7809\obj\Debug\ElTurky.Chi.resources
+D:\سورسات\Source 7809\obj\Debug\ElTurky.Controlpanel.resources
+D:\سورسات\Source 7809\obj\Debug\ElTurky.JiangHu.resources
+D:\سورسات\Source 7809\obj\Debug\ElTurky.Packets.resources
+D:\سورسات\Source 7809\obj\Debug\ElTurky.Panel.resources
+D:\سورسات\Source 7809\obj\Debug\ElTurky.Systems.ChangeSystem.SystemBanned.Panels.PanelCharge.resources
+D:\سورسات\Source 7809\obj\Debug\ElTurky.Panels.NightMareFo.resources
+D:\سورسات\Source 7809\obj\Debug\ElTurky.Panels.ChatPanal.en.resources
+D:\سورسات\Source 7809\obj\Debug\ElTurky.csproj.GenerateResource.cache
+D:\سورسات\Source 7809\obj\Debug\ElTurky.csproj.CoreCompileInputs.cache
+D:\سورسات\Source 7809\obj\Debug\en\ElTurky.resources.dll
+D:\سورسات\Source 7809\obj\Debug\ElTurky.TrustInfo.xml
+D:\سورسات\Source 7809\obj\Debug\ElTurky.exe.manifest
+D:\سورسات\Source 7809\obj\Debug\ElTurky.application
+D:\سورسات\Source 7809\obj\Debug\ElTurky.csproj.Up2Date
+D:\سورسات\Source 7809\obj\Debug\ElTurky.exe
+D:\سورسات\Source 7809\obj\Debug\ElTurky.pdb
+D:\سورسات\Source7901\obj\Debug\ElTurky.csproj.AssemblyReference.cache
+D:\سورسات\Source7901\obj\Debug\Be.Windows.Forms.HexBox.resources
+D:\سورسات\Source7901\obj\Debug\ElTurky.csproj.GenerateResource.cache
+D:\سورسات\Source7901\obj\Debug\ElTurky.csproj.CoreCompileInputs.cache
+D:\سورسات\Source7901\obj\Debug\ElTurky.csproj.Up2Date
+D:\سورسات\Source7901\obj\Debug\VirusX.Mahmoud.resources
+D:\سورسات\Source7901\obj\Debug\VirusX.SpawnMonster.resources
+D:\سورسات\Source7901\obj\Debug\VirusX.Systems.ChangeSystem.SystemBanned.HexBox.strings.resources
+D:\سورسات\Source7901\obj\Debug\VirusX.Panels.AccountsForm.resources
+D:\سورسات\Source7901\obj\Debug\VirusX.Panels.ChatPanal.resources
+D:\سورسات\Source7901\obj\Debug\VirusX.Chi.resources
+D:\سورسات\Source7901\obj\Debug\VirusX.Controlpanel.resources
+D:\سورسات\Source7901\obj\Debug\VirusX.JiangHu.resources
+D:\سورسات\Source7901\obj\Debug\VirusX.Packets.resources
+D:\سورسات\Source7901\obj\Debug\VirusX.Panel.resources
+D:\سورسات\Source7901\obj\Debug\VirusX.Systems.ChangeSystem.SystemBanned.Panels.PanelCharge.resources
+D:\سورسات\Source7901\obj\Debug\VirusX.Panels.NightMareFo.resources
+D:\سورسات\Source7901\obj\Debug\VirusX.Panels.ChatPanal.en.resources
+D:\سورسات\Source7901\obj\Debug\en\VirusX.resources.dll
+D:\سورسات\Source7901\obj\Debug\VirusX.TrustInfo.xml
+D:\سورسات\Source7901\obj\Debug\VirusX.exe.manifest
+D:\سورسات\Source7901\obj\Debug\VirusX.exe
+D:\سورسات\Source7901\obj\Debug\VirusX.pdb
+D:\سورسات\Source7901\bin\Debug\VirusX.exe.config
+D:\سورسات\Source7901\bin\Debug\VirusX.exe.manifest
+D:\سورسات\Source7901\bin\Debug\VirusX.application
+D:\سورسات\Source7901\bin\Debug\VirusX.exe
+D:\سورسات\Source7901\bin\Debug\VirusX.pdb
+D:\سورسات\Source7901\bin\Debug\en\VirusX.resources.dll
+D:\سورسات\Source7901\obj\Debug\VirusX.application

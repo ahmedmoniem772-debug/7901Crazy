@@ -1,0 +1,97 @@
+************************************************************************************
+you traded with ~TITANUS
+Silver sent: 0
+Cps sent: 700000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-5  9:12:20
+************************************************************************************
+************************************************************************************
+you traded with ~TITANUS
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: XumiCap: UID: 73089072 | ID: 143309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 31 | S1: SuperDragonGem | S2: SuperDragonGem
+Items received : Name: LazuritePrayerBeads: UID: 73089073 | ID: 610439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 31 | S1: SuperDragonGem | S2: SuperDragonGem
+Items received : Name: LazuritePrayerBeads: UID: 73089074 | ID: 610439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 31 | S1: SuperDragonGem | S2: SuperDragonGem
+Items received : Name: P12Anima: UID: 73090503 | ID: 4200012 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: VigorousHeavyRing: UID: 73074281 | ID: 151269 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 31 | S1: SuperDragonGem | S2: SuperDragonGem
+Items received : Name: WhiteLotusFrock: UID: 73089071 | ID: 136309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 31 | S1: SuperDragonGem | S2: SuperDragonGem
+Date = 2026-3-5  10:59:46
+************************************************************************************
+************************************************************************************
+you traded with ~TITANUS
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: VigorousHeavyRing: UID: 73074281 | ID: 151269 | Plus: 12 | Bless: 7 | Anima: 4200012 | Perfection Level: 31 | S1: SuperDragonGem | S2: SuperDragonGem
+Date = 2026-3-5  11:48:20
+************************************************************************************
+************************************************************************************
+you traded with ~TITANUS
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Steed: UID: 73074620 | ID: 300000 | Plus: 12 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items received : Name: Steed: UID: 73083224 | ID: 300000 | Plus: 6 | Bless: 1 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-5  12:20:17
+************************************************************************************
+************************************************************************************
+you traded with ~TITANUS
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: XumiCap: UID: 73089072 | ID: 143309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 31 | S1: SuperDragonGem | S2: SuperDragonGem
+Items sent : Name: LazuritePrayerBeads: UID: 73089073 | ID: 610439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 31 | S1: SuperDragonGem | S2: SuperDragonGem
+Items sent : Name: LazuritePrayerBeads: UID: 73089074 | ID: 610439 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 31 | S1: SuperDragonGem | S2: SuperDragonGem
+Items sent : Name: WhiteLotusFrock: UID: 73089071 | ID: 136309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 31 | S1: SuperDragonGem | S2: SuperDragonGem
+Date = 2026-3-5  12:41:12
+************************************************************************************
+************************************************************************************
+you traded with ~TITANUS
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Dream Hobbyhorse: UID: 73090949 | ID: 200436 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: P12Anima: UID: 73090859 | ID: 4200012 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-5  13:30:6
+************************************************************************************
+************************************************************************************
+you traded with ~TITANUS
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Date = 2026-3-5  13:37:11
+************************************************************************************
+************************************************************************************
+you traded with ~TITANUS
+Silver sent: 0
+Cps sent: 700000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-5  13:37:25
+************************************************************************************
+************************************************************************************
+you traded with ~TITANUS
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: CriticalStrike(Sacred)Material: UID: 73091115 | ID: 3004137 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: CriticalStrike(Sacred)Material: UID: 73091116 | ID: 3004137 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-5  18:27:2
+************************************************************************************
+************************************************************************************
+you traded with ~TITANUS
+Silver sent: 0
+Cps sent: 350000
+Silver received: 0
+Cps received: 0
+Date = 2026-3-5  19:10:17
+************************************************************************************

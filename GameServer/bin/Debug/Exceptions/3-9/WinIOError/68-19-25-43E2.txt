@@ -1,0 +1,14 @@
+----Exception message----
+The process cannot access the file because another process has locked a portion of the file.
+
+----End of exception message----
+
+----Stack trace----
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.FileInfo.CopyTo(String destFileName, Boolean overwrite)
+   at ElTurky.Program.CopyAll(DirectoryInfo source, DirectoryInfo target) in C:\Users\Administrator\Desktop\Server\Source\Program.cs:line 1635
+   at ElTurky.Program.Copy(String sourceDirectory, String targetDirectory) in C:\Users\Administrator\Desktop\Server\Source\Program.cs:line 1628
+   at ElTurky.ThreadPoll.ServerFunctions() in C:\Users\Administrator\Desktop\Server\Source\Thread.cs:line 174
+----End of stack trace----
+

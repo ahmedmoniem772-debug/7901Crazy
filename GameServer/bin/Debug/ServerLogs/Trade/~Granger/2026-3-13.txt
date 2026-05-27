@@ -1,0 +1,80 @@
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: GraspofLove: UID: 73141932 | ID: 360192 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: GraspofLove: UID: 73134288 | ID: 360192 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  10:6:34
+************************************************************************************
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Sakura Love (Guard): UID: 73134282 | ID: 360287 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Sakura Love (Guard): UID: 73141893 | ID: 360287 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  10:7:14
+************************************************************************************
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Gory Count (Rose): UID: 73141934 | ID: 191865 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Items sent : Name: Eternal Ode (Praise): UID: 73141937 | ID: 200430 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket
+Date = 2026-3-13  10:9:30
+************************************************************************************
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: WhiteTigerHat: UID: 73108202 | ID: 113309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem
+Items sent : Name: WelkinCoat: UID: 73108203 | ID: 133309 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem
+Items sent : Name: Ethereal Godslayer: UID: 73130173 | ID: 606429 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem
+Items sent : Name: Ethereal Godslayer: UID: 73130174 | ID: 606429 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 31 | S1: SuperDragonGem | S2: SuperDragonGem
+Date = 2026-3-13  10:36:5
+************************************************************************************
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 550000
+Date = 2026-3-13  16:48:46
+************************************************************************************
+************************************************************************************
+you traded with ~Assasin
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: FantasyKnife: UID: 73108200 | ID: 613429 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem
+Items sent : Name: FantasyKnife: UID: 73108201 | ID: 613429 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem
+Items sent : Name: CrackleHeadwear: UID: 73095623 | ID: 147009 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem
+Items sent : Name: RumbleArmor: UID: 73095626 | ID: 102009 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem
+Date = 2026-3-13  18:14:47
+************************************************************************************
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items received : Name: Ethereal Godslayer: UID: 73130173 | ID: 606429 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem
+Date = 2026-3-13  19:26:30
+************************************************************************************
+************************************************************************************
+you traded with Luro|Pitch|Ka~
+Silver sent: 0
+Cps sent: 0
+Silver received: 0
+Cps received: 0
+Items sent : Name: Ethereal Godslayer: UID: 73130173 | ID: 606429 | Plus: 12 | Bless: 7 | Anima: 0 | Perfection Level: 46 | S1: SuperDragonGem | S2: SuperDragonGem
+Date = 2026-3-13  19:27:17
+************************************************************************************
