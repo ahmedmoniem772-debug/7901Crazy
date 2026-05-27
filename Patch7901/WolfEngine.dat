@@ -61,7 +61,7 @@
 	<row>
 		<field name="id">101</field>
 		<field name="ServerName">VirusX</field>
-		<field name="ServerIP">192.168.1.116</field>
+		<field name="ServerIP">26.109.154.71</field>
 		<field name="ServerPort">9960</field>
 		<field name="FlashName">VirusX</field>
 		<field name="FlashIcon">Group2_server13</field>
@@ -69,7 +69,7 @@
 		<field name="Child">0</field>
 		<field name="PicServerIP">0</field>
 		<field name="PicServerPort">0</field>
-		<field name="BindServerIP">192.168.1.1</field>
+		<field name="BindServerIP">26.109.154.71</field>
 		<field name="BindServerPort">9915</field>
 		<field name="Charges">0</field>
 		<field name="MiniDelayx">0</field>
@@ -79,7 +79,7 @@
 	<row>
 		<field name="id">102</field>
 		<field name="ServerName">EgyXos</field>
-		<field name="ServerIP">192.168.1.116</field>
+		<field name="ServerIP">26.109.154.71</field>
 		<field name="ServerPort">9961</field>
 		<field name="FlashName">EgyXos</field>
 		<field name="FlashIcon">Group2_server9</field>
@@ -87,7 +87,7 @@
 		<field name="Child">0</field>
 		<field name="PicServerIP">0</field>
 		<field name="PicServerPort">0</field>
-		<field name="BindServerIP">192.168.1.1</field>
+		<field name="BindServerIP">26.109.154.71</field>
 		<field name="BindServerPort">9915</field>
 		<field name="Charges">0</field>
 		<field name="MiniDelayx">0</field>

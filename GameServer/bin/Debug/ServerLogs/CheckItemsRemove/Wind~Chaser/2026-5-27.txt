@@ -1,0 +1,105 @@
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: EquipmentPack: UID: 73149299 | ID: 727266 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-5-27  11:50:36
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: RedRune(B)SelectionPack: UID: 73149310 | ID: 3306562 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-5-27  11:50:44
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: 3-StarFashionFragment: UID: 73149300 | ID: 3310697 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-5-27  11:50:58
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: 3-StarFashionFragment: UID: 73149301 | ID: 3310697 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-5-27  11:50:59
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: 3-StarFashionFragment: UID: 73149302 | ID: 3310697 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-5-27  11:50:59
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: CommanderRobeGarment: UID: 73149328 | ID: 195585 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-5-27  11:51:1
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: FantasyBall: UID: 73149327 | ID: 196375 | Plus: 0 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-5-27  11:51:2
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Steed: UID: 73149312 | ID: 300000 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-5-27  11:51:8
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: XumiCap: UID: 73149325 | ID: 143309 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-5-27  11:51:58
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: WhiteLotusFrock: UID: 73149324 | ID: 136309 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-5-27  11:51:59
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: AlmightyEmperor`sPillar: UID: 73149321 | ID: 622439 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-5-27  11:52:1
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: AlmightyEmperor`sPillar: UID: 73149320 | ID: 622439 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-5-27  11:52:2
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: AlmightyEmperor`sPillar: UID: 73149321 | ID: 622439 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-5-27  11:52:3
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: Blizzard: UID: 73149319 | ID: 160249 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-5-27  11:52:5
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: CrimsonRing: UID: 73149318 | ID: 150269 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-5-27  11:52:5
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: FloridNecklace: UID: 73149317 | ID: 120269 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperDragonGem | S2: SuperDragonGem 
+Date = 2026-5-27  11:52:5
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: TempestWing: UID: 73149316 | ID: 204009 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperThunderGem | S2: SuperGloryGem 
+Date = 2026-5-27  11:52:7
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: HeavenFan: UID: 73149315 | ID: 201009 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperThunderGem | S2: SuperThunderGem 
+Date = 2026-5-27  11:52:7
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: RidingCrop: UID: 73149313 | ID: 203009 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: NoSocket | S2: NoSocket 
+Date = 2026-5-27  11:52:8
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: StarTower: UID: 73149314 | ID: 202009 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperGloryGem | S2: SuperGloryGem 
+Date = 2026-5-27  11:52:8
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+You CheckItemsRemove a 
+ Name: TempestWing: UID: 73149316 | ID: 204009 | Plus: 6 | Bless: 0 | Anima: 0 | Perfection Level: 0 | S1: SuperThunderGem | S2: SuperGloryGem 
+Date = 2026-5-27  11:54:12
+------------------------------------------------------------------------------------
