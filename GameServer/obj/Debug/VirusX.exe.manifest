@@ -134,7 +134,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>rJw3WQn54kef93RuPdMBXav9N6XYt4IiLgZvPqsGvAA=</dsig:DigestValue>
+        <dsig:DigestValue>XtabvMyu9JigauUW9v2jL8wc9ACk7zzmRT7E4Hj+VDE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -146,7 +146,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>uWptvcaNB5qrebWnnx7Mu3sXd61xAaIO8kJLbeHWA4M=</dsig:DigestValue>
+        <dsig:DigestValue>hqs2YsutX/H5LeFArKEPd4wy0+k14Vn7RTdN3VvvF0A=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -177,13 +177,13 @@
       <dsig:DigestValue>t41dLzEqqXOpQ7lN8M2rpJJljvCNLtQkUdmZS1Ym9Vc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="VirusX.exe.config" size="1044">
+  <file name="VirusX.exe.config" size="1042">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>IEe7qLUuW2Vs89wGJE5eJybgQ0LpmgXUCbWjRX/YEaw=</dsig:DigestValue>
+      <dsig:DigestValue>t25K7CQl2Wsr0YFXKlVs8eKR3qDib7aIbZwF5O9XGPc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="VX.ico" size="4286">

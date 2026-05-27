@@ -79,7 +79,7 @@
 
             using (var conn = DataHolder.MySqlConnection)
             {
-                conn.ConnectionString = "Server=localhost;Port=3306;Database=cq;Uid=root;Password=Hossny@015;Persist Security Info=True;Pooling=true; Min Pool Size = 32;  Max Pool Size = 300;";
+                conn.ConnectionString = "Server=localhost;Port=3306;Database=cq;Uid=root;Password=12345678;Persist Security Info=True;Pooling=true; Min Pool Size = 32;  Max Pool Size = 300;";
                 conn.Open();
                 MYSQLCOMMAND cmd = new MYSQLCOMMAND(Command + ";", conn);
                 return cmd.ExecuteNonQuery();

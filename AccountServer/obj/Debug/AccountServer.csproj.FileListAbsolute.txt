@@ -15,3 +15,11 @@ D:\Conquer\VirusX\AccountServer\obj\Debug\AccountServer.csproj.CoreCompileInputs
 D:\Conquer\VirusX\AccountServer\obj\Debug\AccountS.D42894FE.Up2Date
 D:\Conquer\VirusX\AccountServer\obj\Debug\AccountServer.exe
 D:\Conquer\VirusX\AccountServer\obj\Debug\AccountServer.pdb
+C:\Users\CrazyX\Downloads\VirusX\7901Crazy\AccountServer\bin\Debug\AccountServer.exe.config
+C:\Users\CrazyX\Downloads\VirusX\7901Crazy\AccountServer\bin\Debug\AccountServer.exe
+C:\Users\CrazyX\Downloads\VirusX\7901Crazy\AccountServer\bin\Debug\AccountServer.pdb
+C:\Users\CrazyX\Downloads\VirusX\7901Crazy\AccountServer\obj\Debug\AccountServer.csproj.AssemblyReference.cache
+C:\Users\CrazyX\Downloads\VirusX\7901Crazy\AccountServer\obj\Debug\AccountServer.csproj.CoreCompileInputs.cache
+C:\Users\CrazyX\Downloads\VirusX\7901Crazy\AccountServer\obj\Debug\AccountS.D42894FE.Up2Date
+C:\Users\CrazyX\Downloads\VirusX\7901Crazy\AccountServer\obj\Debug\AccountServer.exe
+C:\Users\CrazyX\Downloads\VirusX\7901Crazy\AccountServer\obj\Debug\AccountServer.pdb

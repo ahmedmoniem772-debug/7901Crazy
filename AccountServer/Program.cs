@@ -43,7 +43,7 @@ namespace AccountServer
             EntityUID = new Counter(0);
             LoginProtection = new System.Collections.Concurrent.ConcurrentDictionary<uint, int>();
             SyncLogin = new object();
-            DataHolder.CreateConnection("cq", "Hossny@015");
+            DataHolder.CreateConnection("cq", "12345678");
             Database.Server.Load();
             Network.Cryptography.AuthCryptography.PrepareAuthCryptography();
             AuthServer = new ServerSocket();
